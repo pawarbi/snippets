@@ -39,15 +39,13 @@ def maintain_delta_table(table_path: str) -> dict:
     last_vacuum = None
     
     for entry in history:
-        # Access the operation info as a dictionary
-        operation_info = entry.to_dict()
-        
-        if "OPTIMIZE" in operation_info.get('operation', ''):
-            if not last_optimize or operation_info['timestamp'] > last_optimize:
-                last_optimize = operation_info['timestamp']
-        elif "VACUUM" in operation_info.get('operation', ''):
-            if not last_vacuum or operation_info['timestamp'] > last_vacuum:
-                last_vacuum = operation_info['timestamp']
+        # History entries are already dictionaries
+        if "OPTIMIZE" in entry['operation']:
+            if not last_optimize or entry['timestamp'] > last_optimize:
+                last_optimize = datetime.fromtimestamp(entry['timestamp'] / 1000)  # Convert milliseconds to datetime
+        elif "VACUUM" in entry['operation']:
+            if not last_vacuum or entry['timestamp'] > last_vacuum:
+                last_vacuum = datetime.fromtimestamp(entry['timestamp'] / 1000)  # Convert milliseconds to datetime
     
     # Store last run times in results
     results["optimize_last_run"] = last_optimize.isoformat() if last_optimize else None
@@ -85,7 +83,7 @@ def maintain_delta_table(table_path: str) -> dict:
 
 # Example usage:
 if __name__ == "__main__":
-    table_path = "abfss://../...../..../"
+    table_path = "abfss://container@storage.dfs.fabric.microsoft.com/path/to/table"
     result = maintain_delta_table(table_path)
     print("Maintenance Summary:")
     print(f"Optimize Last Run: {result['optimize_last_run']}")
