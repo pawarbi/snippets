@@ -1,0 +1,15 @@
+{
+  "Step": {{$new Random().Next(1, 5)}},
+  "Type": "{{$new string[] { "PAYMENT", "TRANSFER", "CASH_OUT", "DEBIT", "CREDIT"}[new Random().Next(0, 5)]}}",
+  "Amount": {{$Math.Round(new Random().NextDouble() * (50000 - 50) + 50, 2)}},
+  "NameOrig": "C{{$new Random().Next(100000, 2000000000)}}",
+  "OldBalanceOrig": {{$Math.Round(Math.Pow(10, new Random().NextDouble() * 6), 2)}},
+  "NewBalanceOrig": {{$Math.Round(new Random().Next(2, 10000) * Math.Exp(new Random().NextDouble() * 2.3), 2)}},
+  "NameDest": "M{{$new Random().Next(10000000, 20000000)}}",
+  "OldBalanceDest": {{$Math.Round(new Random().NextDouble() * new Random().NextDouble() * 1000000, 2)}},
+  "NewBalanceDest": {{$Math.Round(500000 + new Random().Next(-1000, 1000000) + new Random().NextDouble() * 500000, 2)}},
+  "IsFraud": {{$new Random().Next(0, 20) == 0 ? 1 : 0}},
+  "IsFlaggedFraud": {{$new Random().Next(0, 30) == 0 ? 1 : 0}},
+  "Rec": 1,
+  "DateTimeNow": "{{$DateTime.Now.ToString("o")}}"
+}
