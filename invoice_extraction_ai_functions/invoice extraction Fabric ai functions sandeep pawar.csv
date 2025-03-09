@@ -1,0 +1,3653 @@
+invoice_name,invoice_path,mkdown_text,mkd_error,processed_mkdown,output,cleaned_json_output,validated_data,validation_error,is_valid
+pdf-genuine-type01b-001.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-001.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 07 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Uwe Mustermann Rückfragen bitte an Hauptstrasse 21, App. 403 Service-center: 03452 232-367 45323 Berlin Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 195, 86 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 23435/043232      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 30. 03. 2007      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 30. 04. 3007      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re., Gicht, Gelbfieber, Otitis externa, Grippe, Endometriose, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 02. 07 1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+6 13, 41 2, 30 Untersuchung eines Organsystems
+
+2  X 1415 24, 40 2, 30 Binokularmikroskopie
+
+1418 24, 13 2, 30 Endoskopie, Nasen-/Rachenraumm
+
+410 26, 81 2, 30 Sonographie eines Organs
+
+B : NNH
+
+04. 03. 07 4722 8, 04 1, 15 Lichtmikroskopische Identifizierung, Pilz
+
+2  X 623 29, 38 1, 80 Thermographie
+
+410 26, 81 2, 30 Sonographie eines Organs
+
+Uterus
+
+3  X 420 32, 16 2, 30 Sonographie, je Organ, bis zu drei
+
+Blase/bd. Adnexe
+
+### 195, 86 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 07 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 07 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Uwe Mustermann Rückfragen bitte an Hauptstrasse 21, App. 403 Service-center: 03452 232-367 45323 Berlin Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 195, 86 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 23435/043232      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 30. 03. 2007      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 30. 04. 3007      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re., Gicht, Gelbfieber, Otitis externa, Grippe, Endometriose, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 02. 07 1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+6 13, 41 2, 30 Untersuchung eines Organsystems
+
+2  X 1415 24, 40 2, 30 Binokularmikroskopie
+
+1418 24, 13 2, 30 Endoskopie, Nasen-/Rachenraumm
+
+410 26, 81 2, 30 Sonographie eines Organs
+
+B : NNH
+
+04. 03. 07 4722 8, 04 1, 15 Lichtmikroskopische Identifizierung, Pilz
+
+2  X 623 29, 38 1, 80 Thermographie
+
+410 26, 81 2, 30 Sonographie eines Organs
+
+Uterus
+
+3  X 420 32, 16 2, 30 Sonographie, je Organ, bis zu drei
+
+Blase/bd. Adnexe
+
+### 195, 86 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 07 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Uwe Mustermann"",
+    ""address"": ""Hauptstrasse 21, App. 403"",
+    ""city"": ""Berlin"",
+    ""postal_code"": ""45323"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""23435/043232"",
+    ""date"": ""30. 03. 2007"",
+    ""due_date"": ""30. 04. 3007"",
+    ""total_amount"": ""195, 86""
+  },
+  ""diagnosis"": [
+    ""Z.n. Cholesteatum-OP re."",
+    ""Gicht"",
+    ""Gelbfieber"",
+    ""Otitis externa"",
+    ""Grippe"",
+    ""Endometriose""
+  ],
+  ""items"": [
+    {
+      ""date"": ""23. 02. 07"",
+      ""number"": ""1"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beratung – auch mittels Fernsprecher""
+    },
+    {
+      ""date"": ""23. 02. 07"",
+      ""number"": ""6"",
+      ""amount"": ""13, 41"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Untersuchung eines Organsystems""
+    },
+    {
+      ""date"": ""23. 02. 07"",
+      ""number"": ""2 X 1415"",
+      ""amount"": ""24, 40"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Binokularmikroskopie""
+    },
+    {
+      ""date"": ""23. 02. 07"",
+      ""number"": ""1418"",
+      ""amount"": ""24, 13"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Endoskopie, Nasen-\/Rachenraumm""
+    },
+    {
+      ""date"": ""23. 02. 07"",
+      ""number"": ""410"",
+      ""amount"": ""26, 81"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Sonographie eines Organs\nB : NNH""
+    },
+    {
+      ""date"": ""04. 03. 07"",
+      ""number"": ""4722"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Lichtmikroskopische Identifizierung, Pilz""
+    },
+    {
+      ""date"": ""04. 03. 07"",
+      ""number"": ""2 X 623"",
+      ""amount"": ""29, 38"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Thermographie""
+    },
+    {
+      ""date"": ""04. 03. 07"",
+      ""number"": ""410"",
+      ""amount"": ""26, 81"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Sonographie eines Organs\nUterus""
+    },
+    {
+      ""date"": ""04. 03. 07"",
+      ""number"": ""3 X 420"",
+      ""amount"": ""32, 16"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Sonographie, je Organ, bis zu drei\nBlase\/bd. Adnexe""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Uwe Mustermann"",""address"":""Hauptstrasse 21, App. 403"",""city"":""Berlin"",""postal_code"":""45323"",""country"":""Deutschland""},""invoice"":{""number"":""23435/043232"",""date"":""30. 03. 2007"",""due_date"":""30. 04. 3007"",""total_amount"":""195, 86""},""diagnosis"":[""Z.n. Cholesteatum-OP re."",""Gicht"",""Gelbfieber"",""Otitis externa"",""Grippe"",""Endometriose""],""items"":[{""date"":""23. 02. 07"",""number"":""1"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Beratung-auch mittels Fernsprecher""},{""date"":""23. 02. 07"",""number"":""6"",""amount"":""13, 41"",""factor"":""2, 30"",""description"":""Untersuchung eines Organsystems""},{""date"":""23. 02. 07"",""number"":""2 X 1415"",""amount"":""24, 40"",""factor"":""2, 30"",""description"":""Binokularmikroskopie""},{""date"":""23. 02. 07"",""number"":""1418"",""amount"":""24, 13"",""factor"":""2, 30"",""description"":""Endoskopie, Nasen-/Rachenraumm""},{""date"":""23. 02. 07"",""number"":""410"",""amount"":""26, 81"",""factor"":""2, 30"",""description"":""Sonographie eines Organs\nB : NNH""},{""date"":""04. 03. 07"",""number"":""4722"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Lichtmikroskopische Identifizierung, Pilz""},{""date"":""04. 03. 07"",""number"":""2 X 623"",""amount"":""29, 38"",""factor"":""1, 80"",""description"":""Thermographie""},{""date"":""04. 03. 07"",""number"":""410"",""amount"":""26, 81"",""factor"":""2, 30"",""description"":""Sonographie eines Organs\nUterus""},{""date"":""04. 03. 07"",""number"":""3 X 420"",""amount"":""32, 16"",""factor"":""2, 30"",""description"":""Sonographie, je Organ, bis zu drei\nBlase/bd. Adnexe""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Uwe Mustermann', address='Hauptstrasse 21, App. 403', city='Berlin', postal_code='45323', country='Deutschland') invoice=Invoice(number='23435/043232', date='30. 03. 2007', due_date='30. 04. 3007', total_amount='195, 86') diagnosis=['Z.n. Cholesteatum-OP re.', 'Gicht', 'Gelbfieber', 'Otitis externa', 'Grippe', 'Endometriose'] items=[Item(date='23. 02. 07', number='1', amount='10, 72', factor='2, 30', description='Beratung-auch mittels Fernsprecher'), Item(date='23. 02. 07', number='6', amount='13, 41', factor='2, 30', description='Untersuchung eines Organsystems'), Item(date='23. 02. 07', number='2 X 1415', amount='24, 40', factor='2, 30', description='Binokularmikroskopie'), Item(date='23. 02. 07', number='1418', amount='24, 13', factor='2, 30', description='Endoskopie, Nasen-/Rachenraumm'), Item(date='23. 02. 07', number='410', amount='26, 81', factor='2, 30', description='Sonographie eines Organs\nB : NNH'), Item(date='04. 03. 07', number='4722', amount='8, 04', factor='1, 15', description='Lichtmikroskopische Identifizierung, Pilz'), Item(date='04. 03. 07', number='2 X 623', amount='29, 38', factor='1, 80', description='Thermographie'), Item(date='04. 03. 07', number='410', amount='26, 81', factor='2, 30', description='Sonographie eines Organs\nUterus'), Item(date='04. 03. 07', number='3 X 420', amount='32, 16', factor='2, 30', description='Sonographie, je Organ, bis zu drei\nBlase/bd. Adnexe')]",,1
+pdf-genuine-type01b-002.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-002.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 02 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Marco Lang Rückfragen bitte an Ludwig Strasse 81, App. 673 Service-center: 03452 232-367 12411 Landstuhl Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 74, 79 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 21215/09432      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 12. 03. 2002      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 15. 04. 2002      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re.,Darmplypen, Cerumen obturans,Diphterie, Depression, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+05. 02. 2002 1565 6, 03 2, 30 Entfernung v. Ohrschmalzpfröpfen
+
+1578 5, 36 2, 30 Chemische Ätzung im Gehörgang
+
+1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+5 10, 72 2, 30 Symptombezoge Untersuchung
+
+17. 02. 2002 1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+7 21, 45 2, 30 Untersuchung eines Organsystems
+
+1070 9, 79 2, 30 Koloskopie
+
+### 74, 79 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 02 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 02 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Marco Lang Rückfragen bitte an Ludwig Strasse 81, App. 673 Service-center: 03452 232-367 12411 Landstuhl Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 74, 79 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 21215/09432      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 12. 03. 2002      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 15. 04. 2002      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re.,Darmplypen, Cerumen obturans,Diphterie, Depression, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+05. 02. 2002 1565 6, 03 2, 30 Entfernung v. Ohrschmalzpfröpfen
+
+1578 5, 36 2, 30 Chemische Ätzung im Gehörgang
+
+1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+5 10, 72 2, 30 Symptombezoge Untersuchung
+
+17. 02. 2002 1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+7 21, 45 2, 30 Untersuchung eines Organsystems
+
+1070 9, 79 2, 30 Koloskopie
+
+### 74, 79 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 02 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Marco Lang"",
+    ""address"": ""Ludwig Strasse 81, App. 673"",
+    ""city"": ""Landstuhl"",
+    ""postal_code"": ""12411"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""21215/09432"",
+    ""date"": ""12. 03. 2002"",
+    ""due_date"": ""15. 04. 2002"",
+    ""total_amount"": ""74, 79 EUR""
+  },
+  ""diagnosis"": [
+    ""Z.n. Cholesteatum-OP re."",
+    ""Darmplypen"",
+    ""Cerumen obturans"",
+    ""Diphterie"",
+    ""Depression""
+  ],
+  ""items"": [
+    {
+      ""date"": ""05. 02. 2002"",
+      ""number"": ""1565"",
+      ""amount"": ""6, 03"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Entfernung v. Ohrschmalzpfröpfen""
+    },
+    {
+      ""date"": ""05. 02. 2002"",
+      ""number"": ""1578"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Chemische Ätzung im Gehörgang""
+    },
+    {
+      ""date"": ""05. 02. 2002"",
+      ""number"": ""1"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beratung – auch mittels Fernsprecher""
+    },
+    {
+      ""date"": ""05. 02. 2002"",
+      ""number"": ""5"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Symptombezoge Untersuchung""
+    },
+    {
+      ""date"": ""17. 02. 2002"",
+      ""number"": ""1"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beratung – auch mittels Fernsprecher""
+    },
+    {
+      ""date"": ""17. 02. 2002"",
+      ""number"": ""7"",
+      ""amount"": ""21, 45"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Untersuchung eines Organsystems""
+    },
+    {
+      ""date"": ""17. 02. 2002"",
+      ""number"": ""1070"",
+      ""amount"": ""9, 79"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Koloskopie""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Marco Lang"",""address"":""Ludwig Strasse 81, App. 673"",""city"":""Landstuhl"",""postal_code"":""12411"",""country"":""Deutschland""},""invoice"":{""number"":""21215/09432"",""date"":""12. 03. 2002"",""due_date"":""15. 04. 2002"",""total_amount"":""74, 79 EUR""},""diagnosis"":[""Z.n. Cholesteatum-OP re."",""Darmplypen"",""Cerumen obturans"",""Diphterie"",""Depression""],""items"":[{""date"":""05. 02. 2002"",""number"":""1565"",""amount"":""6, 03"",""factor"":""2, 30"",""description"":""Entfernung v. Ohrschmalzpfröpfen""},{""date"":""05. 02. 2002"",""number"":""1578"",""amount"":""5, 36"",""factor"":""2, 30"",""description"":""Chemische Ätzung im Gehörgang""},{""date"":""05. 02. 2002"",""number"":""1"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Beratung-auch mittels Fernsprecher""},{""date"":""05. 02. 2002"",""number"":""5"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Symptombezoge Untersuchung""},{""date"":""17. 02. 2002"",""number"":""1"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Beratung-auch mittels Fernsprecher""},{""date"":""17. 02. 2002"",""number"":""7"",""amount"":""21, 45"",""factor"":""2, 30"",""description"":""Untersuchung eines Organsystems""},{""date"":""17. 02. 2002"",""number"":""1070"",""amount"":""9, 79"",""factor"":""2, 30"",""description"":""Koloskopie""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Marco Lang', address='Ludwig Strasse 81, App. 673', city='Landstuhl', postal_code='12411', country='Deutschland') invoice=Invoice(number='21215/09432', date='12. 03. 2002', due_date='15. 04. 2002', total_amount='74, 79 EUR') diagnosis=['Z.n. Cholesteatum-OP re.', 'Darmplypen', 'Cerumen obturans', 'Diphterie', 'Depression'] items=[Item(date='05. 02. 2002', number='1565', amount='6, 03', factor='2, 30', description='Entfernung v. Ohrschmalzpfröpfen'), Item(date='05. 02. 2002', number='1578', amount='5, 36', factor='2, 30', description='Chemische Ätzung im Gehörgang'), Item(date='05. 02. 2002', number='1', amount='10, 72', factor='2, 30', description='Beratung-auch mittels Fernsprecher'), Item(date='05. 02. 2002', number='5', amount='10, 72', factor='2, 30', description='Symptombezoge Untersuchung'), Item(date='17. 02. 2002', number='1', amount='10, 72', factor='2, 30', description='Beratung-auch mittels Fernsprecher'), Item(date='17. 02. 2002', number='7', amount='21, 45', factor='2, 30', description='Untersuchung eines Organsystems'), Item(date='17. 02. 2002', number='1070', amount='9, 79', factor='2, 30', description='Koloskopie')]",,1
+pdf-genuine-type01b-003.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-003.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 08. 05 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Karl Bross Rückfragen bitte an Marx Strasse 23, App. 233 Service-center: 03452 232-367 62582 Mannheim Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 65, 00 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 75634/074245      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 08. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 09. 2005      65432 Frankfurt
+
+#### Diagnosen: Flexkfieber,Fettleber, Otitis externa, Ausschuß Sinusitis maxillaris et ethmoidalis, Fußpilz, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 07. 2005 1075 6, 03 2, 30 Vaginale Behandlung
+
+1105 24, 13 2, 30 Zellmaterial, Gebärmutterhöhle
+
+3511 3, 35 1, 15 Untersuchung e. Körpermaterials
+
+3532 6, 03 1, 15 Phasenkontrastmikroskop. Urinsediment
+
+30. 07. 2005 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+3508 5, 36 1, 15 Mikroskopische Unters. e. Nativpräparats
+
+3509 6, 70 1, 15 Mikroskopische Unters. n. einf. Färbung
+
+3510 8, 04 1, 15 Mikroskopische Unters. -n. differ. Färbung
+
+### 65, 00 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|08. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 08. 05 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Karl Bross Rückfragen bitte an Marx Strasse 23, App. 233 Service-center: 03452 232-367 62582 Mannheim Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 65, 00 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 75634/074245      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 08. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 09. 2005      65432 Frankfurt
+
+#### Diagnosen: Flexkfieber,Fettleber, Otitis externa, Ausschuß Sinusitis maxillaris et ethmoidalis, Fußpilz, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 07. 2005 1075 6, 03 2, 30 Vaginale Behandlung
+
+1105 24, 13 2, 30 Zellmaterial, Gebärmutterhöhle
+
+3511 3, 35 1, 15 Untersuchung e. Körpermaterials
+
+3532 6, 03 1, 15 Phasenkontrastmikroskop. Urinsediment
+
+30. 07. 2005 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+3508 5, 36 1, 15 Mikroskopische Unters. e. Nativpräparats
+
+3509 6, 70 1, 15 Mikroskopische Unters. n. einf. Färbung
+
+3510 8, 04 1, 15 Mikroskopische Unters. -n. differ. Färbung
+
+### 65, 00 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|08. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Karl Bross"",
+    ""address"": ""Marx Strasse 23, App. 233"",
+    ""city"": ""Mannheim"",
+    ""postal_code"": ""62582"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""75634/074245"",
+    ""date"": ""25. 08. 2005"",
+    ""due_date"": ""25. 09. 2005"",
+    ""total_amount"": ""65, 00""
+  },
+  ""diagnosis"": [
+    ""Flexkfieber"",
+    ""Fettleber"",
+    ""Otitis externa"",
+    ""Ausschuß Sinusitis maxillaris et ethmoidalis"",
+    ""Fußpilz""
+  ],
+  ""items"": [
+    {
+      ""date"": ""23. 07. 2005"",
+      ""number"": ""1075"",
+      ""amount"": ""6, 03"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Vaginale Behandlung""
+    },
+    {
+      ""date"": ""23. 07. 2005"",
+      ""number"": ""1105"",
+      ""amount"": ""24, 13"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Zellmaterial, Gebärmutterhöhle""
+    },
+    {
+      ""date"": ""23. 07. 2005"",
+      ""number"": ""3511"",
+      ""amount"": ""3, 35"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Untersuchung e. Körpermaterials""
+    },
+    {
+      ""date"": ""23. 07. 2005"",
+      ""number"": ""3532"",
+      ""amount"": ""6, 03"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Phasenkontrastmikroskop. Urinsediment""
+    },
+    {
+      ""date"": ""30. 07. 2005"",
+      ""number"": ""298"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Abstrichentnahme z. mikrobiolog. Unters.""
+    },
+    {
+      ""date"": ""30. 07. 2005"",
+      ""number"": ""3508"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Mikroskopische Unters. e. Nativpräparats""
+    },
+    {
+      ""date"": ""30. 07. 2005"",
+      ""number"": ""3509"",
+      ""amount"": ""6, 70"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Mikroskopische Unters. n. einf. Färbung""
+    },
+    {
+      ""date"": ""30. 07. 2005"",
+      ""number"": ""3510"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Mikroskopische Unters. -n. differ. Färbung""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Karl Bross"",""address"":""Marx Strasse 23, App. 233"",""city"":""Mannheim"",""postal_code"":""62582"",""country"":""Deutschland""},""invoice"":{""number"":""75634/074245"",""date"":""25. 08. 2005"",""due_date"":""25. 09. 2005"",""total_amount"":""65, 00""},""diagnosis"":[""Flexkfieber"",""Fettleber"",""Otitis externa"",""Ausschuß Sinusitis maxillaris et ethmoidalis"",""Fußpilz""],""items"":[{""date"":""23. 07. 2005"",""number"":""1075"",""amount"":""6, 03"",""factor"":""2, 30"",""description"":""Vaginale Behandlung""},{""date"":""23. 07. 2005"",""number"":""1105"",""amount"":""24, 13"",""factor"":""2, 30"",""description"":""Zellmaterial, Gebärmutterhöhle""},{""date"":""23. 07. 2005"",""number"":""3511"",""amount"":""3, 35"",""factor"":""1, 15"",""description"":""Untersuchung e. Körpermaterials""},{""date"":""23. 07. 2005"",""number"":""3532"",""amount"":""6, 03"",""factor"":""1, 15"",""description"":""Phasenkontrastmikroskop. Urinsediment""},{""date"":""30. 07. 2005"",""number"":""298"",""amount"":""5, 36"",""factor"":""2, 30"",""description"":""Abstrichentnahme z. mikrobiolog. Unters.""},{""date"":""30. 07. 2005"",""number"":""3508"",""amount"":""5, 36"",""factor"":""1, 15"",""description"":""Mikroskopische Unters. e. Nativpräparats""},{""date"":""30. 07. 2005"",""number"":""3509"",""amount"":""6, 70"",""factor"":""1, 15"",""description"":""Mikroskopische Unters. n. einf. Färbung""},{""date"":""30. 07. 2005"",""number"":""3510"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Mikroskopische Unters.-n. differ. Färbung""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Karl Bross', address='Marx Strasse 23, App. 233', city='Mannheim', postal_code='62582', country='Deutschland') invoice=Invoice(number='75634/074245', date='25. 08. 2005', due_date='25. 09. 2005', total_amount='65, 00') diagnosis=['Flexkfieber', 'Fettleber', 'Otitis externa', 'Ausschuß Sinusitis maxillaris et ethmoidalis', 'Fußpilz'] items=[Item(date='23. 07. 2005', number='1075', amount='6, 03', factor='2, 30', description='Vaginale Behandlung'), Item(date='23. 07. 2005', number='1105', amount='24, 13', factor='2, 30', description='Zellmaterial, Gebärmutterhöhle'), Item(date='23. 07. 2005', number='3511', amount='3, 35', factor='1, 15', description='Untersuchung e. Körpermaterials'), Item(date='23. 07. 2005', number='3532', amount='6, 03', factor='1, 15', description='Phasenkontrastmikroskop. Urinsediment'), Item(date='30. 07. 2005', number='298', amount='5, 36', factor='2, 30', description='Abstrichentnahme z. mikrobiolog. Unters.'), Item(date='30. 07. 2005', number='3508', amount='5, 36', factor='1, 15', description='Mikroskopische Unters. e. Nativpräparats'), Item(date='30. 07. 2005', number='3509', amount='6, 70', factor='1, 15', description='Mikroskopische Unters. n. einf. Färbung'), Item(date='30. 07. 2005', number='3510', amount='8, 04', factor='1, 15', description='Mikroskopische Unters.-n. differ. Färbung')]",,1
+pdf-genuine-type01b-004.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-004.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 05  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Paul Mann Rückfragen bitte an Karl Strasse 201, App. 76 Service-center: 03452 232-367 83121 Bremen Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 37, 10 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 23435/043232      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 23. 09. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 23. 10. 2005      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re., Fingerbruch, Fieber, Otitis externa, Exzeme, Erkältung, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+10. 08. 2005 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+4711 8, 04 1, 15 Lichmikroskopisch Pilze, n. Präparation
+
+4715 6, 70 1, 15 Nachweis Pilze – einfache Nährmedien
+
+0, 92 Materialien -Auslage nach GOÄ § 10
+
+15. 08. 2005 4716 8, 04 1, 15 Nachweis Pilze – aufwendige Nährmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+4717 8, 04 1, 15 Züchtung Pilze - Differenzierungsmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+### 37, 10 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 05  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Paul Mann Rückfragen bitte an Karl Strasse 201, App. 76 Service-center: 03452 232-367 83121 Bremen Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 37, 10 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 23435/043232      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 23. 09. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 23. 10. 2005      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re., Fingerbruch, Fieber, Otitis externa, Exzeme, Erkältung, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+10. 08. 2005 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+4711 8, 04 1, 15 Lichmikroskopisch Pilze, n. Präparation
+
+4715 6, 70 1, 15 Nachweis Pilze – einfache Nährmedien
+
+0, 92 Materialien -Auslage nach GOÄ § 10
+
+15. 08. 2005 4716 8, 04 1, 15 Nachweis Pilze – aufwendige Nährmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+4717 8, 04 1, 15 Züchtung Pilze - Differenzierungsmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+### 37, 10 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Paul Mann"",
+    ""address"": ""Karl Strasse 201, App. 76"",
+    ""city"": ""Bremen"",
+    ""postal_code"": ""83121"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""23435/043232"",
+    ""date"": ""23. 09. 2005"",
+    ""due_date"": ""23. 10. 2005"",
+    ""total_amount"": ""37, 10 EUR""
+  },
+  ""diagnosis"": [
+    ""Z.n. Cholesteatum-OP re."",
+    ""Fingerbruch"",
+    ""Fieber"",
+    ""Otitis externa"",
+    ""Exzeme"",
+    ""Erkältung""
+  ],
+  ""items"": [
+    {
+      ""date"": ""10. 08. 2005"",
+      ""number"": ""298"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Abstrichentnahme z. mikrobiolog. Unters.""
+    },
+    {
+      ""date"": ""10. 08. 2005"",
+      ""number"": ""4711"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Lichmikroskopisch Pilze, n. Präparation""
+    },
+    {
+      ""date"": ""10. 08. 2005"",
+      ""number"": ""4715"",
+      ""amount"": ""6, 70"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Nachweis Pilze – einfache Nährmedien""
+    },
+    {
+      ""date"": ""15. 08. 2005"",
+      ""number"": ""4716"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Nachweis Pilze – aufwendige Nährmedien""
+    },
+    {
+      ""date"": ""15. 08. 2005"",
+      ""number"": ""4717"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Züchtung Pilze - Differenzierungsmedien""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Paul Mann"",""address"":""Karl Strasse 201, App. 76"",""city"":""Bremen"",""postal_code"":""83121"",""country"":""Deutschland""},""invoice"":{""number"":""23435/043232"",""date"":""23. 09. 2005"",""due_date"":""23. 10. 2005"",""total_amount"":""37, 10 EUR""},""diagnosis"":[""Z.n. Cholesteatum-OP re."",""Fingerbruch"",""Fieber"",""Otitis externa"",""Exzeme"",""Erkältung""],""items"":[{""date"":""10. 08. 2005"",""number"":""298"",""amount"":""5, 36"",""factor"":""2, 30"",""description"":""Abstrichentnahme z. mikrobiolog. Unters.""},{""date"":""10. 08. 2005"",""number"":""4711"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Lichmikroskopisch Pilze, n. Präparation""},{""date"":""10. 08. 2005"",""number"":""4715"",""amount"":""6, 70"",""factor"":""1, 15"",""description"":""Nachweis Pilze-einfache Nährmedien""},{""date"":""15. 08. 2005"",""number"":""4716"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Nachweis Pilze-aufwendige Nährmedien""},{""date"":""15. 08. 2005"",""number"":""4717"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Züchtung Pilze-Differenzierungsmedien""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Paul Mann', address='Karl Strasse 201, App. 76', city='Bremen', postal_code='83121', country='Deutschland') invoice=Invoice(number='23435/043232', date='23. 09. 2005', due_date='23. 10. 2005', total_amount='37, 10 EUR') diagnosis=['Z.n. Cholesteatum-OP re.', 'Fingerbruch', 'Fieber', 'Otitis externa', 'Exzeme', 'Erkältung'] items=[Item(date='10. 08. 2005', number='298', amount='5, 36', factor='2, 30', description='Abstrichentnahme z. mikrobiolog. Unters.'), Item(date='10. 08. 2005', number='4711', amount='8, 04', factor='1, 15', description='Lichmikroskopisch Pilze, n. Präparation'), Item(date='10. 08. 2005', number='4715', amount='6, 70', factor='1, 15', description='Nachweis Pilze-einfache Nährmedien'), Item(date='15. 08. 2005', number='4716', amount='8, 04', factor='1, 15', description='Nachweis Pilze-aufwendige Nährmedien'), Item(date='15. 08. 2005', number='4717', amount='8, 04', factor='1, 15', description='Züchtung Pilze-Differenzierungsmedien')]",,1
+pdf-genuine-type01b-005.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-005.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 07. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Maria Keiser Rückfragen bitte an Kaiser Strasse 45, App. 93 Service-center: 03452 232-367 32121 Bonn Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 89, 63 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 64325/098210      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 07. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 20. 08. 2006      65432 Frankfurt
+
+#### Diagnosen: Enzephalitis, Lambliasis, Cerumen obturans, Otitis externa, Grüner Star, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+15. 06. 2006 250 4, 20 1, 80 Blutentnahme
+
+410 26, 81 2, 30 Ultraschalluntersuchung eines Organs: Leber
+
+420 x 3 32, 16 2, 30 Ultraschalluntersuchung von bis zu drei weiteren
+
+Organen im Anschluss an eine der Leistungen nach
+den Nummern 410 bis 418, je Organ
+Nieren Bds., Pankreas,
+
+23. 06. 2006 403 15, 74 1, 80 Zuschlag, transkavitär
+
+1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+### 89, 63 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|07. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 07. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Maria Keiser Rückfragen bitte an Kaiser Strasse 45, App. 93 Service-center: 03452 232-367 32121 Bonn Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 89, 63 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 64325/098210      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 07. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 20. 08. 2006      65432 Frankfurt
+
+#### Diagnosen: Enzephalitis, Lambliasis, Cerumen obturans, Otitis externa, Grüner Star, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+15. 06. 2006 250 4, 20 1, 80 Blutentnahme
+
+410 26, 81 2, 30 Ultraschalluntersuchung eines Organs: Leber
+
+420 x 3 32, 16 2, 30 Ultraschalluntersuchung von bis zu drei weiteren
+
+Organen im Anschluss an eine der Leistungen nach
+den Nummern 410 bis 418, je Organ
+Nieren Bds., Pankreas,
+
+23. 06. 2006 403 15, 74 1, 80 Zuschlag, transkavitär
+
+1 10, 72 2, 30 Beratung – auch mittels Fernsprecher 
+### 89, 63 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|07. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Maria Keiser"",
+    ""address"": ""Kaiser Strasse 45, App. 93"",
+    ""city"": ""Bonn"",
+    ""postal_code"": ""32121"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""64325/098210"",
+    ""date"": ""20. 07. 2006"",
+    ""due_date"": ""20. 08. 2006"",
+    ""total_amount"": ""89, 63""
+  },
+  ""diagnosis"": [
+    ""Enzephalitis"",
+    ""Lambliasis"",
+    ""Cerumen obturans"",
+    ""Otitis externa"",
+    ""Grüner Star""
+  ],
+  ""items"": [
+    {
+      ""date"": ""15. 06. 2006"",
+      ""number"": ""250"",
+      ""amount"": ""4, 20"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Blutentnahme""
+    },
+    {
+      ""date"": ""15. 06. 2006"",
+      ""number"": ""410"",
+      ""amount"": ""26, 81"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Ultraschalluntersuchung eines Organs: Leber""
+    },
+    {
+      ""date"": ""15. 06. 2006"",
+      ""number"": ""420 x 3"",
+      ""amount"": ""32, 16"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Ultraschalluntersuchung von bis zu drei weiteren\n\nOrganen im Anschluss an eine der Leistungen nach\nden Nummern 410 bis 418, je Organ\nNieren Bds., Pankreas""
+    },
+    {
+      ""date"": ""23. 06. 2006"",
+      ""number"": ""403"",
+      ""amount"": ""15, 74"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Zuschlag, transkavitär""
+    },
+    {
+      ""date"": ""23. 06. 2006"",
+      ""number"": ""1"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beratung – auch mittels Fernsprecher""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Maria Keiser"",""address"":""Kaiser Strasse 45, App. 93"",""city"":""Bonn"",""postal_code"":""32121"",""country"":""Deutschland""},""invoice"":{""number"":""64325/098210"",""date"":""20. 07. 2006"",""due_date"":""20. 08. 2006"",""total_amount"":""89, 63""},""diagnosis"":[""Enzephalitis"",""Lambliasis"",""Cerumen obturans"",""Otitis externa"",""Grüner Star""],""items"":[{""date"":""15. 06. 2006"",""number"":""250"",""amount"":""4, 20"",""factor"":""1, 80"",""description"":""Blutentnahme""},{""date"":""15. 06. 2006"",""number"":""410"",""amount"":""26, 81"",""factor"":""2, 30"",""description"":""Ultraschalluntersuchung eines Organs: Leber""},{""date"":""15. 06. 2006"",""number"":""420 x 3"",""amount"":""32, 16"",""factor"":""2, 30"",""description"":""Ultraschalluntersuchung von bis zu drei weiteren\n\nOrganen im Anschluss an eine der Leistungen nach\nden Nummern 410 bis 418, je Organ\nNieren Bds., Pankreas""},{""date"":""23. 06. 2006"",""number"":""403"",""amount"":""15, 74"",""factor"":""1, 80"",""description"":""Zuschlag, transkavitär""},{""date"":""23. 06. 2006"",""number"":""1"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Beratung-auch mittels Fernsprecher""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Maria Keiser', address='Kaiser Strasse 45, App. 93', city='Bonn', postal_code='32121', country='Deutschland') invoice=Invoice(number='64325/098210', date='20. 07. 2006', due_date='20. 08. 2006', total_amount='89, 63') diagnosis=['Enzephalitis', 'Lambliasis', 'Cerumen obturans', 'Otitis externa', 'Grüner Star'] items=[Item(date='15. 06. 2006', number='250', amount='4, 20', factor='1, 80', description='Blutentnahme'), Item(date='15. 06. 2006', number='410', amount='26, 81', factor='2, 30', description='Ultraschalluntersuchung eines Organs: Leber'), Item(date='15. 06. 2006', number='420 x 3', amount='32, 16', factor='2, 30', description='Ultraschalluntersuchung von bis zu drei weiteren\n\nOrganen im Anschluss an eine der Leistungen nach\nden Nummern 410 bis 418, je Organ\nNieren Bds., Pankreas'), Item(date='23. 06. 2006', number='403', amount='15, 74', factor='1, 80', description='Zuschlag, transkavitär'), Item(date='23. 06. 2006', number='1', amount='10, 72', factor='2, 30', description='Beratung-auch mittels Fernsprecher')]",,1
+pdf-genuine-type01b-006.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-006.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 05 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Mark Heiberg Rückfragen bitte an Donaustrasse 51, App. 213 Service-center: 03452 232-367 45566 Freiburg Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 95, 51 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 12975/017253      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 07. 03. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 08. 04. 2005      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re., Glaukom, Katarakt, Influenza, Arthrose, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+14. 02. 2005 602 15, 95 1, 80 Oxymetrische Untersuchung
+
+605 25, 39 1, 80 Ruhespirographische Untersuchung
+
+605A 14, 69 1, 80 Darstellung der Flussvolumenkurve bei
+spirographischen Untersuchungen – einschl.
+graphischer Registrierung und Dokumentation
+
+505 8, 92 1, 80 Atmungsunterweisung
+
+25. 02. 2005 651 26, 54 1, 80 EKG in Ruhe – auch ggf. nach Belastung – mind. 9
+Ableitungen
+
+3501 4, 02 1, 15 Blutkörperchensenkungsgeschwindigkeit(BKS,BSG)
+
+### 95, 51 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 05 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Mark Heiberg Rückfragen bitte an Donaustrasse 51, App. 213 Service-center: 03452 232-367 45566 Freiburg Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 95, 51 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 12975/017253      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 07. 03. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 08. 04. 2005      65432 Frankfurt
+
+#### Diagnosen: Z.n. Cholesteatum-OP re., Glaukom, Katarakt, Influenza, Arthrose, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+14. 02. 2005 602 15, 95 1, 80 Oxymetrische Untersuchung
+
+605 25, 39 1, 80 Ruhespirographische Untersuchung
+
+605A 14, 69 1, 80 Darstellung der Flussvolumenkurve bei
+spirographischen Untersuchungen – einschl.
+graphischer Registrierung und Dokumentation
+
+505 8, 92 1, 80 Atmungsunterweisung
+
+25. 02. 2005 651 26, 54 1, 80 EKG in Ruhe – auch ggf. nach Belastung – mind. 9
+Ableitungen
+
+3501 4, 02 1, 15 Blutkörperchensenkungsgeschwindigkeit(BKS,BSG)
+
+### 95, 51 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Mark Heiberg"",
+    ""address"": ""Donaustrasse 51, App. 213"",
+    ""city"": ""Freiburg"",
+    ""postal_code"": ""45566"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""12975/017253"",
+    ""date"": ""07. 03. 2005"",
+    ""due_date"": ""08. 04. 2005"",
+    ""total_amount"": ""95, 51""
+  },
+  ""diagnosis"": [
+    ""Z.n. Cholesteatum-OP re."",
+    ""Glaukom"",
+    ""Katarakt"",
+    ""Influenza"",
+    ""Arthrose""
+  ],
+  ""items"": [
+    {
+      ""date"": ""14. 02. 2005"",
+      ""number"": ""602"",
+      ""amount"": ""15, 95"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Oxymetrische Untersuchung""
+    },
+    {
+      ""date"": ""14. 02. 2005"",
+      ""number"": ""605"",
+      ""amount"": ""25, 39"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Ruhespirographische Untersuchung""
+    },
+    {
+      ""date"": ""14. 02. 2005"",
+      ""number"": ""605A"",
+      ""amount"": ""14, 69"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Darstellung der Flussvolumenkurve bei spirographischen Untersuchungen – einschl. graphischer Registrierung und Dokumentation""
+    },
+    {
+      ""date"": ""14. 02. 2005"",
+      ""number"": ""505"",
+      ""amount"": ""8, 92"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Atmungsunterweisung""
+    },
+    {
+      ""date"": ""25. 02. 2005"",
+      ""number"": ""651"",
+      ""amount"": ""26, 54"",
+      ""factor"": ""1, 80"",
+      ""description"": ""EKG in Ruhe – auch ggf. nach Belastung – mind. 9 Ableitungen""
+    },
+    {
+      ""date"": ""25. 02. 2005"",
+      ""number"": ""3501"",
+      ""amount"": ""4, 02"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Blutkörperchensenkungsgeschwindigkeit(BKS,BSG)""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Mark Heiberg"",""address"":""Donaustrasse 51, App. 213"",""city"":""Freiburg"",""postal_code"":""45566"",""country"":""Deutschland""},""invoice"":{""number"":""12975/017253"",""date"":""07. 03. 2005"",""due_date"":""08. 04. 2005"",""total_amount"":""95, 51""},""diagnosis"":[""Z.n. Cholesteatum-OP re."",""Glaukom"",""Katarakt"",""Influenza"",""Arthrose""],""items"":[{""date"":""14. 02. 2005"",""number"":""602"",""amount"":""15, 95"",""factor"":""1, 80"",""description"":""Oxymetrische Untersuchung""},{""date"":""14. 02. 2005"",""number"":""605"",""amount"":""25, 39"",""factor"":""1, 80"",""description"":""Ruhespirographische Untersuchung""},{""date"":""14. 02. 2005"",""number"":""605A"",""amount"":""14, 69"",""factor"":""1, 80"",""description"":""Darstellung der Flussvolumenkurve bei spirographischen Untersuchungen-einschl. graphischer Registrierung und Dokumentation""},{""date"":""14. 02. 2005"",""number"":""505"",""amount"":""8, 92"",""factor"":""1, 80"",""description"":""Atmungsunterweisung""},{""date"":""25. 02. 2005"",""number"":""651"",""amount"":""26, 54"",""factor"":""1, 80"",""description"":""EKG in Ruhe-auch ggf. nach Belastung-mind. 9 Ableitungen""},{""date"":""25. 02. 2005"",""number"":""3501"",""amount"":""4, 02"",""factor"":""1, 15"",""description"":""Blutkörperchensenkungsgeschwindigkeit(BKS,BSG)""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Mark Heiberg', address='Donaustrasse 51, App. 213', city='Freiburg', postal_code='45566', country='Deutschland') invoice=Invoice(number='12975/017253', date='07. 03. 2005', due_date='08. 04. 2005', total_amount='95, 51') diagnosis=['Z.n. Cholesteatum-OP re.', 'Glaukom', 'Katarakt', 'Influenza', 'Arthrose'] items=[Item(date='14. 02. 2005', number='602', amount='15, 95', factor='1, 80', description='Oxymetrische Untersuchung'), Item(date='14. 02. 2005', number='605', amount='25, 39', factor='1, 80', description='Ruhespirographische Untersuchung'), Item(date='14. 02. 2005', number='605A', amount='14, 69', factor='1, 80', description='Darstellung der Flussvolumenkurve bei spirographischen Untersuchungen-einschl. graphischer Registrierung und Dokumentation'), Item(date='14. 02. 2005', number='505', amount='8, 92', factor='1, 80', description='Atmungsunterweisung'), Item(date='25. 02. 2005', number='651', amount='26, 54', factor='1, 80', description='EKG in Ruhe-auch ggf. nach Belastung-mind. 9 Ableitungen'), Item(date='25. 02. 2005', number='3501', amount='4, 02', factor='1, 15', description='Blutkörperchensenkungsgeschwindigkeit(BKS,BSG)')]",,1
+pdf-genuine-type01b-007.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-007.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 06. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Lara Torro Rückfragen bitte an Mittelstrasse 11, App. 213 Service-center: 03452 232-367 36123 Düsseldorf Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 13, 40 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 12315/023642      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 06. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 20. 07. 2006      65432 Frankfurt
+
+#### Diagnosen: Atherom, Cholezystitis, Cerumen obturans, Cholelithiasis, Ballengroßzehe, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 05. 2006 3550 4, 02 1, 15 Blutbild und Blutbildbestandteile
+
+3555 2, 68 1, 15 Calcium
+
+3557 2, 01 1, 15 Kalium
+
+29. 05. 2006 3558 2, 01 1, 15 Natrium
+
+3560 2, 68 1, 15 Glukose
+
+### 13, 40 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|06. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 06. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Lara Torro Rückfragen bitte an Mittelstrasse 11, App. 213 Service-center: 03452 232-367 36123 Düsseldorf Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 13, 40 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 12315/023642      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 06. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 20. 07. 2006      65432 Frankfurt
+
+#### Diagnosen: Atherom, Cholezystitis, Cerumen obturans, Cholelithiasis, Ballengroßzehe, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 05. 2006 3550 4, 02 1, 15 Blutbild und Blutbildbestandteile
+
+3555 2, 68 1, 15 Calcium
+
+3557 2, 01 1, 15 Kalium
+
+29. 05. 2006 3558 2, 01 1, 15 Natrium
+
+3560 2, 68 1, 15 Glukose
+
+### 13, 40 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|06. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Lara Torro"",
+    ""address"": ""Mittelstrasse 11, App. 213"",
+    ""city"": ""Düsseldorf"",
+    ""postal_code"": ""36123"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""12315/023642"",
+    ""date"": ""20. 06. 2006"",
+    ""due_date"": ""20. 07. 2006"",
+    ""total_amount"": ""13, 40 EUR""
+  },
+  ""diagnosis"": [
+    ""Atherom"",
+    ""Cholezystitis"",
+    ""Cerumen obturans"",
+    ""Cholelithiasis"",
+    ""Ballengroßzehe""
+  ],
+  ""items"": [
+    {
+      ""date"": ""23. 05. 2006"",
+      ""number"": ""3550"",
+      ""amount"": ""4, 02"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Blutbild und Blutbildbestandteile""
+    },
+    {
+      ""date"": ""23. 05. 2006"",
+      ""number"": ""3555"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Calcium""
+    },
+    {
+      ""date"": ""23. 05. 2006"",
+      ""number"": ""3557"",
+      ""amount"": ""2, 01"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Kalium""
+    },
+    {
+      ""date"": ""29. 05. 2006"",
+      ""number"": ""3558"",
+      ""amount"": ""2, 01"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Natrium""
+    },
+    {
+      ""date"": ""29. 05. 2006"",
+      ""number"": ""3560"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Glukose""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Lara Torro"",""address"":""Mittelstrasse 11, App. 213"",""city"":""Düsseldorf"",""postal_code"":""36123"",""country"":""Deutschland""},""invoice"":{""number"":""12315/023642"",""date"":""20. 06. 2006"",""due_date"":""20. 07. 2006"",""total_amount"":""13, 40 EUR""},""diagnosis"":[""Atherom"",""Cholezystitis"",""Cerumen obturans"",""Cholelithiasis"",""Ballengroßzehe""],""items"":[{""date"":""23. 05. 2006"",""number"":""3550"",""amount"":""4, 02"",""factor"":""1, 15"",""description"":""Blutbild und Blutbildbestandteile""},{""date"":""23. 05. 2006"",""number"":""3555"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Calcium""},{""date"":""23. 05. 2006"",""number"":""3557"",""amount"":""2, 01"",""factor"":""1, 15"",""description"":""Kalium""},{""date"":""29. 05. 2006"",""number"":""3558"",""amount"":""2, 01"",""factor"":""1, 15"",""description"":""Natrium""},{""date"":""29. 05. 2006"",""number"":""3560"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Glukose""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Lara Torro', address='Mittelstrasse 11, App. 213', city='Düsseldorf', postal_code='36123', country='Deutschland') invoice=Invoice(number='12315/023642', date='20. 06. 2006', due_date='20. 07. 2006', total_amount='13, 40 EUR') diagnosis=['Atherom', 'Cholezystitis', 'Cerumen obturans', 'Cholelithiasis', 'Ballengroßzehe'] items=[Item(date='23. 05. 2006', number='3550', amount='4, 02', factor='1, 15', description='Blutbild und Blutbildbestandteile'), Item(date='23. 05. 2006', number='3555', amount='2, 68', factor='1, 15', description='Calcium'), Item(date='23. 05. 2006', number='3557', amount='2, 01', factor='1, 15', description='Kalium'), Item(date='29. 05. 2006', number='3558', amount='2, 01', factor='1, 15', description='Natrium'), Item(date='29. 05. 2006', number='3560', amount='2, 68', factor='1, 15', description='Glukose')]",,1
+pdf-genuine-type01b-008.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-008.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 11. 03 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Peter Paul Rückfragen bitte an Wilhemstrasse 23, App. 123 Service-center: 03452 232-367 32121 Köln Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 26, 14 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 91821/091821      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 10. 11. 2003      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 10. 12. 2003      65432 Frankfurt
+
+#### Diagnosen: Candidiasis, Leistenbruch, Gürtelrose, Bluthochdruck, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+15. 10. 2003 3562 . H1 2, 68 1, 15 Cholesterin
+
+3562 . H1 2, 68 1, 15 HDL - Cholesterin
+
+3565 . H1 2, 68 1, 15 Triglyzeride
+
+3573 . H1 2, 01 1, 15 Gesamt – Protein im Serum oder Plasma
+
+3574 13, 41 1, 15 Proteinelektrophorese im Serum
+
+3581 . H1 2, 68 1, 15 Bilirubin, Gesamt
+
+### 26, 14 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|11. 03 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 11. 03 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Peter Paul Rückfragen bitte an Wilhemstrasse 23, App. 123 Service-center: 03452 232-367 32121 Köln Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 26, 14 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 91821/091821      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 10. 11. 2003      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 10. 12. 2003      65432 Frankfurt
+
+#### Diagnosen: Candidiasis, Leistenbruch, Gürtelrose, Bluthochdruck, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+15. 10. 2003 3562 . H1 2, 68 1, 15 Cholesterin
+
+3562 . H1 2, 68 1, 15 HDL - Cholesterin
+
+3565 . H1 2, 68 1, 15 Triglyzeride
+
+3573 . H1 2, 01 1, 15 Gesamt – Protein im Serum oder Plasma
+
+3574 13, 41 1, 15 Proteinelektrophorese im Serum
+
+3581 . H1 2, 68 1, 15 Bilirubin, Gesamt
+
+### 26, 14 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|11. 03 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Peter Paul"",
+    ""address"": ""Wilhemstrasse 23, App. 123"",
+    ""city"": ""Köln"",
+    ""postal_code"": ""32121"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""91821/091821"",
+    ""date"": ""10. 11. 2003"",
+    ""due_date"": ""10. 12. 2003"",
+    ""total_amount"": ""26, 14 EUR""
+  },
+  ""diagnosis"": [
+    ""Candidiasis"",
+    ""Leistenbruch"",
+    ""Gürtelrose"",
+    ""Bluthochdruck""
+  ],
+  ""items"": [
+    {
+      ""date"": ""15. 10. 2003"",
+      ""number"": ""3562 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Cholesterin\n\n3562 . H1 2, 68 1, 15 HDL - Cholesterin\n\n3565 . H1 2, 68 1, 15 Triglyzeride\n\n3573 . H1 2, 01 1, 15 Gesamt – Protein im Serum oder Plasma\n\n3574 13, 41 1, 15 Proteinelektrophorese im Serum\n\n3581 . H1 2, 68 1, 15 Bilirubin, Gesamt""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Peter Paul"",""address"":""Wilhemstrasse 23, App. 123"",""city"":""Köln"",""postal_code"":""32121"",""country"":""Deutschland""},""invoice"":{""number"":""91821/091821"",""date"":""10. 11. 2003"",""due_date"":""10. 12. 2003"",""total_amount"":""26, 14 EUR""},""diagnosis"":[""Candidiasis"",""Leistenbruch"",""Gürtelrose"",""Bluthochdruck""],""items"":[{""date"":""15. 10. 2003"",""number"":""3562 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Cholesterin\n\n3562 . H1 2, 68 1, 15 HDL-Cholesterin\n\n3565 . H1 2, 68 1, 15 Triglyzeride\n\n3573 . H1 2, 01 1, 15 Gesamt-Protein im Serum oder Plasma\n\n3574 13, 41 1, 15 Proteinelektrophorese im Serum\n\n3581 . H1 2, 68 1, 15 Bilirubin, Gesamt""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Peter Paul', address='Wilhemstrasse 23, App. 123', city='Köln', postal_code='32121', country='Deutschland') invoice=Invoice(number='91821/091821', date='10. 11. 2003', due_date='10. 12. 2003', total_amount='26, 14 EUR') diagnosis=['Candidiasis', 'Leistenbruch', 'Gürtelrose', 'Bluthochdruck'] items=[Item(date='15. 10. 2003', number='3562 . H1', amount='2, 68', factor='1, 15', description='Cholesterin\n\n3562 . H1 2, 68 1, 15 HDL-Cholesterin\n\n3565 . H1 2, 68 1, 15 Triglyzeride\n\n3573 . H1 2, 01 1, 15 Gesamt-Protein im Serum oder Plasma\n\n3574 13, 41 1, 15 Proteinelektrophorese im Serum\n\n3581 . H1 2, 68 1, 15 Bilirubin, Gesamt')]",,1
+pdf-genuine-type01b-009.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-009.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Ulrich Altenheimer Rückfragen bitte an Altstrasse 31, App. 321 Service-center: 03452 232-367 61532 Duisburg Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 26, 81 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 12311/012111      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 27. 03. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 27. 04. 2006      65432 Frankfurt
+
+#### Diagnosen: Hydrozele, Husten, Hypoglykämie, Hodentorison, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+18. 02. 2006 3583 . H1 2, 68 1, 15 Harnsäure
+
+3584 . H1 2, 68 1, 15 Harnstoff (Harnstoff -N, Bun)
+
+3585 . H1 2, 68 1, 15 Kreatinin
+
+3587 . H1 2, 68 1, 15 Alkalische Phosphatase
+
+3574 13, 41 1, 15 Proteinelektrophorese im Serum
+
+3592 . H1 2, 68 1, 15 Gamma - Glutamyltranspeptidase (Gamma –
+Glutamyltransferase, Gamma - GT)
+
+### 26, 81 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 03. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Ulrich Altenheimer Rückfragen bitte an Altstrasse 31, App. 321 Service-center: 03452 232-367 61532 Duisburg Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 26, 81 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 12311/012111      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 27. 03. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 27. 04. 2006      65432 Frankfurt
+
+#### Diagnosen: Hydrozele, Husten, Hypoglykämie, Hodentorison, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+18. 02. 2006 3583 . H1 2, 68 1, 15 Harnsäure
+
+3584 . H1 2, 68 1, 15 Harnstoff (Harnstoff -N, Bun)
+
+3585 . H1 2, 68 1, 15 Kreatinin
+
+3587 . H1 2, 68 1, 15 Alkalische Phosphatase
+
+3574 13, 41 1, 15 Proteinelektrophorese im Serum
+
+3592 . H1 2, 68 1, 15 Gamma - Glutamyltranspeptidase (Gamma –
+Glutamyltransferase, Gamma - GT)
+
+### 26, 81 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|03. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Ulrich Altenheimer"",
+    ""address"": ""Altstrasse 31, App. 321"",
+    ""city"": ""Duisburg"",
+    ""postal_code"": ""61532"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""12311/012111"",
+    ""date"": ""27. 03. 2006"",
+    ""due_date"": ""27. 04. 2006"",
+    ""total_amount"": ""26, 81 EUR""
+  },
+  ""diagnosis"": [
+    ""Hydrozele"",
+    ""Husten"",
+    ""Hypoglykämie"",
+    ""Hodentorison""
+  ],
+  ""items"": [
+    {
+      ""date"": ""18. 02. 2006"",
+      ""number"": ""3583 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Harnsäure""
+    },
+    {
+      ""date"": ""18. 02. 2006"",
+      ""number"": ""3584 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Harnstoff (Harnstoff -N, Bun)""
+    },
+    {
+      ""date"": ""18. 02. 2006"",
+      ""number"": ""3585 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Kreatinin""
+    },
+    {
+      ""date"": ""18. 02. 2006"",
+      ""number"": ""3587 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Alkalische Phosphatase""
+    },
+    {
+      ""date"": ""18. 02. 2006"",
+      ""number"": ""3574"",
+      ""amount"": ""13, 41"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Proteinelektrophorese im Serum""
+    },
+    {
+      ""date"": ""18. 02. 2006"",
+      ""number"": ""3592 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Gamma - Glutamyltranspeptidase (Gamma – Glutamyltransferase, Gamma - GT)""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Ulrich Altenheimer"",""address"":""Altstrasse 31, App. 321"",""city"":""Duisburg"",""postal_code"":""61532"",""country"":""Deutschland""},""invoice"":{""number"":""12311/012111"",""date"":""27. 03. 2006"",""due_date"":""27. 04. 2006"",""total_amount"":""26, 81 EUR""},""diagnosis"":[""Hydrozele"",""Husten"",""Hypoglykämie"",""Hodentorison""],""items"":[{""date"":""18. 02. 2006"",""number"":""3583 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Harnsäure""},{""date"":""18. 02. 2006"",""number"":""3584 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Harnstoff (Harnstoff-N, Bun)""},{""date"":""18. 02. 2006"",""number"":""3585 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Kreatinin""},{""date"":""18. 02. 2006"",""number"":""3587 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Alkalische Phosphatase""},{""date"":""18. 02. 2006"",""number"":""3574"",""amount"":""13, 41"",""factor"":""1, 15"",""description"":""Proteinelektrophorese im Serum""},{""date"":""18. 02. 2006"",""number"":""3592 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Gamma-Glutamyltranspeptidase (Gamma-Glutamyltransferase, Gamma-GT)""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Ulrich Altenheimer', address='Altstrasse 31, App. 321', city='Duisburg', postal_code='61532', country='Deutschland') invoice=Invoice(number='12311/012111', date='27. 03. 2006', due_date='27. 04. 2006', total_amount='26, 81 EUR') diagnosis=['Hydrozele', 'Husten', 'Hypoglykämie', 'Hodentorison'] items=[Item(date='18. 02. 2006', number='3583 . H1', amount='2, 68', factor='1, 15', description='Harnsäure'), Item(date='18. 02. 2006', number='3584 . H1', amount='2, 68', factor='1, 15', description='Harnstoff (Harnstoff-N, Bun)'), Item(date='18. 02. 2006', number='3585 . H1', amount='2, 68', factor='1, 15', description='Kreatinin'), Item(date='18. 02. 2006', number='3587 . H1', amount='2, 68', factor='1, 15', description='Alkalische Phosphatase'), Item(date='18. 02. 2006', number='3574', amount='13, 41', factor='1, 15', description='Proteinelektrophorese im Serum'), Item(date='18. 02. 2006', number='3592 . H1', amount='2, 68', factor='1, 15', description='Gamma-Glutamyltranspeptidase (Gamma-Glutamyltransferase, Gamma-GT)')]",,1
+pdf-genuine-type01b-010.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-010.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 04 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Uwe Broz Rückfragen bitte an Paulstrasse 67, App. 87 Service-center: 03452 232-367 85338 Dresden Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 30, 83 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 84332/021210      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 08. 09. 2004      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 08. 10. 2004      65432 Frankfurt
+
+#### Diagnosen: Hypothyreose, Unterzucker, Orchitis, Epididymitis Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+09. 07. 2004 3620 2, 68 1, 15 Eisen im Serum oder Plasma
+
+3621 2, 68 1, 15 Magnesium
+
+3 20, 11 2, 30 Eingehende, das gewöhnliche Mass übersteigende
+Beratung – auch mittels Fernspecher
+
+09. 08. 2004 3594 . H1 2, 68 1, 15 Glutamatoxalazetattransaminase (GOT,
+Aspartataminotransferase, ASAT, AST)
+
+3595 . H1 2, 68 1, 15 Glutamatpyruvattransaminase (GPT,
+Alaninaminotransferase, ALAT, ALT)
+
+### 30, 83 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 04 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 04 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Uwe Broz Rückfragen bitte an Paulstrasse 67, App. 87 Service-center: 03452 232-367 85338 Dresden Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 30, 83 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 84332/021210      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 08. 09. 2004      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 08. 10. 2004      65432 Frankfurt
+
+#### Diagnosen: Hypothyreose, Unterzucker, Orchitis, Epididymitis Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+09. 07. 2004 3620 2, 68 1, 15 Eisen im Serum oder Plasma
+
+3621 2, 68 1, 15 Magnesium
+
+3 20, 11 2, 30 Eingehende, das gewöhnliche Mass übersteigende
+Beratung – auch mittels Fernspecher
+
+09. 08. 2004 3594 . H1 2, 68 1, 15 Glutamatoxalazetattransaminase (GOT,
+Aspartataminotransferase, ASAT, AST)
+
+3595 . H1 2, 68 1, 15 Glutamatpyruvattransaminase (GPT,
+Alaninaminotransferase, ALAT, ALT)
+
+### 30, 83 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 04 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Uwe Broz"",
+    ""address"": ""Paulstrasse 67, App. 87"",
+    ""city"": ""Dresden"",
+    ""postal_code"": ""85338"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""84332/021210"",
+    ""date"": ""08. 09. 2004"",
+    ""due_date"": ""08. 10. 2004"",
+    ""total_amount"": ""30, 83 EUR""
+  },
+  ""diagnosis"": [
+    ""Hypothyreose"",
+    ""Unterzucker"",
+    ""Orchitis"",
+    ""Epididymitis""
+  ],
+  ""items"": [
+    {
+      ""date"": ""09. 07. 2004"",
+      ""number"": ""3620"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Eisen im Serum oder Plasma""
+    },
+    {
+      ""date"": ""09. 07. 2004"",
+      ""number"": ""3621"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Magnesium""
+    },
+    {
+      ""date"": ""09. 07. 2004"",
+      ""number"": ""3"",
+      ""amount"": ""20, 11"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Eingehende, das gewöhnliche Mass übersteigende Beratung – auch mittels Fernspecher""
+    },
+    {
+      ""date"": ""09. 08. 2004"",
+      ""number"": ""3594 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT, AST)""
+    },
+    {
+      ""date"": ""09. 08. 2004"",
+      ""number"": ""3595 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Glutamatpyruvattransaminase (GPT, Alaninaminotransferase, ALAT, ALT)""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Uwe Broz"",""address"":""Paulstrasse 67, App. 87"",""city"":""Dresden"",""postal_code"":""85338"",""country"":""Deutschland""},""invoice"":{""number"":""84332/021210"",""date"":""08. 09. 2004"",""due_date"":""08. 10. 2004"",""total_amount"":""30, 83 EUR""},""diagnosis"":[""Hypothyreose"",""Unterzucker"",""Orchitis"",""Epididymitis""],""items"":[{""date"":""09. 07. 2004"",""number"":""3620"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Eisen im Serum oder Plasma""},{""date"":""09. 07. 2004"",""number"":""3621"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Magnesium""},{""date"":""09. 07. 2004"",""number"":""3"",""amount"":""20, 11"",""factor"":""2, 30"",""description"":""Eingehende, das gewöhnliche Mass übersteigende Beratung-auch mittels Fernspecher""},{""date"":""09. 08. 2004"",""number"":""3594 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT, AST)""},{""date"":""09. 08. 2004"",""number"":""3595 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Glutamatpyruvattransaminase (GPT, Alaninaminotransferase, ALAT, ALT)""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Uwe Broz', address='Paulstrasse 67, App. 87', city='Dresden', postal_code='85338', country='Deutschland') invoice=Invoice(number='84332/021210', date='08. 09. 2004', due_date='08. 10. 2004', total_amount='30, 83 EUR') diagnosis=['Hypothyreose', 'Unterzucker', 'Orchitis', 'Epididymitis'] items=[Item(date='09. 07. 2004', number='3620', amount='2, 68', factor='1, 15', description='Eisen im Serum oder Plasma'), Item(date='09. 07. 2004', number='3621', amount='2, 68', factor='1, 15', description='Magnesium'), Item(date='09. 07. 2004', number='3', amount='20, 11', factor='2, 30', description='Eingehende, das gewöhnliche Mass übersteigende Beratung-auch mittels Fernspecher'), Item(date='09. 08. 2004', number='3594 . H1', amount='2, 68', factor='1, 15', description='Glutamatoxalazetattransaminase (GOT, Aspartataminotransferase, ASAT, AST)'), Item(date='09. 08. 2004', number='3595 . H1', amount='2, 68', factor='1, 15', description='Glutamatpyruvattransaminase (GPT, Alaninaminotransferase, ALAT, ALT)')]",,1
+pdf-genuine-type01b-011.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-011.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 04. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Georg Müller Rückfragen bitte an Müllerstrasse 76, App. 432 Service-center: 03452 232-367 75321 Hamburg Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 206, 58 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 67421/096421      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 17. 04. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 17. 05. 2006      65432 Frankfurt
+
+#### Diagnosen: Impetigo contagiosa, Ischiassyndrom, Enzephalitis, Tinea kapitis, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+03. 03. 2006 P0405 15, 86 1, 00 Modellmontage in individuellen Artikulator II
+
+P0408 6, 44 1, 00 Montage eines Gegenkiefermodelles
+
+P0409 23, 61 1, 00 Gesichtsbogen zur Artikulation
+
+24. 03. 2006 P2122 69, 60 1, 00 Krone gegossen, für Keramik- oder Polymer-GlasVolverblendung
+
+P2612 91, 07 1, 00 Mehrflächige Verblendung aus Keramik
+
+### 206, 58 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|04. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 04. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Georg Müller Rückfragen bitte an Müllerstrasse 76, App. 432 Service-center: 03452 232-367 75321 Hamburg Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 206, 58 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 67421/096421      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 17. 04. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 17. 05. 2006      65432 Frankfurt
+
+#### Diagnosen: Impetigo contagiosa, Ischiassyndrom, Enzephalitis, Tinea kapitis, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+03. 03. 2006 P0405 15, 86 1, 00 Modellmontage in individuellen Artikulator II
+
+P0408 6, 44 1, 00 Montage eines Gegenkiefermodelles
+
+P0409 23, 61 1, 00 Gesichtsbogen zur Artikulation
+
+24. 03. 2006 P2122 69, 60 1, 00 Krone gegossen, für Keramik- oder Polymer-GlasVolverblendung
+
+P2612 91, 07 1, 00 Mehrflächige Verblendung aus Keramik
+
+### 206, 58 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|04. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Georg Müller"",
+    ""address"": ""Müllerstrasse 76, App. 432"",
+    ""city"": ""Hamburg"",
+    ""postal_code"": ""75321"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""67421/096421"",
+    ""date"": ""17. 04. 2006"",
+    ""due_date"": ""17. 05. 2006"",
+    ""total_amount"": ""206, 58 EUR""
+  },
+  ""diagnosis"": [
+    ""Impetigo contagiosa"",
+    ""Ischiassyndrom"",
+    ""Enzephalitis"",
+    ""Tinea kapitis""
+  ],
+  ""items"": [
+    {
+      ""date"": ""03. 03. 2006"",
+      ""number"": ""P0405"",
+      ""amount"": ""15, 86"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Modellmontage in individuellen Artikulator II""
+    },
+    {
+      ""date"": ""03. 03. 2006"",
+      ""number"": ""P0408"",
+      ""amount"": ""6, 44"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Montage eines Gegenkiefermodelles""
+    },
+    {
+      ""date"": ""03. 03. 2006"",
+      ""number"": ""P0409"",
+      ""amount"": ""23, 61"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Gesichtsbogen zur Artikulation""
+    },
+    {
+      ""date"": ""24. 03. 2006"",
+      ""number"": ""P2122"",
+      ""amount"": ""69, 60"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Krone gegossen, für Keramik- oder Polymer-GlasVolverblendung""
+    },
+    {
+      ""date"": ""24. 03. 2006"",
+      ""number"": ""P2612"",
+      ""amount"": ""91, 07"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Mehrflächige Verblendung aus Keramik""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Georg Müller"",""address"":""Müllerstrasse 76, App. 432"",""city"":""Hamburg"",""postal_code"":""75321"",""country"":""Deutschland""},""invoice"":{""number"":""67421/096421"",""date"":""17. 04. 2006"",""due_date"":""17. 05. 2006"",""total_amount"":""206, 58 EUR""},""diagnosis"":[""Impetigo contagiosa"",""Ischiassyndrom"",""Enzephalitis"",""Tinea kapitis""],""items"":[{""date"":""03. 03. 2006"",""number"":""P0405"",""amount"":""15, 86"",""factor"":""1, 00"",""description"":""Modellmontage in individuellen Artikulator II""},{""date"":""03. 03. 2006"",""number"":""P0408"",""amount"":""6, 44"",""factor"":""1, 00"",""description"":""Montage eines Gegenkiefermodelles""},{""date"":""03. 03. 2006"",""number"":""P0409"",""amount"":""23, 61"",""factor"":""1, 00"",""description"":""Gesichtsbogen zur Artikulation""},{""date"":""24. 03. 2006"",""number"":""P2122"",""amount"":""69, 60"",""factor"":""1, 00"",""description"":""Krone gegossen, für Keramik-oder Polymer-GlasVolverblendung""},{""date"":""24. 03. 2006"",""number"":""P2612"",""amount"":""91, 07"",""factor"":""1, 00"",""description"":""Mehrflächige Verblendung aus Keramik""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Georg Müller', address='Müllerstrasse 76, App. 432', city='Hamburg', postal_code='75321', country='Deutschland') invoice=Invoice(number='67421/096421', date='17. 04. 2006', due_date='17. 05. 2006', total_amount='206, 58 EUR') diagnosis=['Impetigo contagiosa', 'Ischiassyndrom', 'Enzephalitis', 'Tinea kapitis'] items=[Item(date='03. 03. 2006', number='P0405', amount='15, 86', factor='1, 00', description='Modellmontage in individuellen Artikulator II'), Item(date='03. 03. 2006', number='P0408', amount='6, 44', factor='1, 00', description='Montage eines Gegenkiefermodelles'), Item(date='03. 03. 2006', number='P0409', amount='23, 61', factor='1, 00', description='Gesichtsbogen zur Artikulation'), Item(date='24. 03. 2006', number='P2122', amount='69, 60', factor='1, 00', description='Krone gegossen, für Keramik-oder Polymer-GlasVolverblendung'), Item(date='24. 03. 2006', number='P2612', amount='91, 07', factor='1, 00', description='Mehrflächige Verblendung aus Keramik')]",,1
+pdf-genuine-type01b-012.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-012.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 07. 03  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Maxim Peterson Rückfragen bitte an Alex-Müller Strasse 89, App. 23 Service-center: 03452 232-367 33112 Frankfurt Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 380, 21 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 43523/073245      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 07. 2003      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 20. 08. 2003      65432 Frankfurt
+
+#### Diagnosen: Fibroadenom, Osteoporose, Cephalgie, Skabies, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+18. 06. 2003 P2922 3, 97 1, 00 Krone/Inlay/Brückenglied aufpassen
+
+P2971 44, 58 1, 00 Aufwand bei Suprastruktur auf Implantat
+
+P2973 64, 25 1, 00 Bearbeiten eines Implantatkopfes
+
+P3191 33, 60 1, 00 Straumann WN Manipulierimplantat für synOcta;
+grau; Länge 12, 00 mm; Stahl rostfrei;
+Art. Nr.: 048.171
+
+P3214 150, 00 1, 00 Straumann WN synOcta Abgewinkelt;
+Sekundärteil; 15°; Typ A; Höhe 5, 5 mm B; Titan;
+Art. Nr.: 048.608
+
+P9035 83, 81 3, 70 MainbondSun – aufbrennfähig – 17005
+Bestandteile: 74, 0 % Au; 14, 5 % Ag; 1, 5 % Pt;
+
+5, 5 % Pd; 3, 3 % Zn; 1, 0 % In; 0,1 Ta; 0, 1 % Ir
+
+### 380, 21 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|07. 03 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 07. 03  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Maxim Peterson Rückfragen bitte an Alex-Müller Strasse 89, App. 23 Service-center: 03452 232-367 33112 Frankfurt Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 380, 21 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 43523/073245      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 07. 2003      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 20. 08. 2003      65432 Frankfurt
+
+#### Diagnosen: Fibroadenom, Osteoporose, Cephalgie, Skabies, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+18. 06. 2003 P2922 3, 97 1, 00 Krone/Inlay/Brückenglied aufpassen
+
+P2971 44, 58 1, 00 Aufwand bei Suprastruktur auf Implantat
+
+P2973 64, 25 1, 00 Bearbeiten eines Implantatkopfes
+
+P3191 33, 60 1, 00 Straumann WN Manipulierimplantat für synOcta;
+grau; Länge 12, 00 mm; Stahl rostfrei;
+Art. Nr.: 048.171
+
+P3214 150, 00 1, 00 Straumann WN synOcta Abgewinkelt;
+Sekundärteil; 15°; Typ A; Höhe 5, 5 mm B; Titan;
+Art. Nr.: 048.608
+
+P9035 83, 81 3, 70 MainbondSun – aufbrennfähig – 17005
+Bestandteile: 74, 0 % Au; 14, 5 % Ag; 1, 5 % Pt;
+
+5, 5 % Pd; 3, 3 % Zn; 1, 0 % In; 0,1 Ta; 0, 1 % Ir
+
+### 380, 21 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|07. 03 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Maxim Peterson"",
+    ""address"": ""Alex-Müller Strasse 89, App. 23"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""33112"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""43523/073245"",
+    ""date"": ""20. 07. 2003"",
+    ""due_date"": ""20. 08. 2003"",
+    ""total_amount"": ""380, 21 EUR""
+  },
+  ""diagnosis"": [
+    ""Fibroadenom"",
+    ""Osteoporose"",
+    ""Cephalgie"",
+    ""Skabies""
+  ],
+  ""items"": [
+    {
+      ""date"": ""18. 06. 2003"",
+      ""number"": ""P2922"",
+      ""amount"": ""3, 97"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Krone/Inlay/Brückenglied aufpassen""
+    },
+    {
+      ""date"": ""18. 06. 2003"",
+      ""number"": ""P2971"",
+      ""amount"": ""44, 58"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Aufwand bei Suprastruktur auf Implantat""
+    },
+    {
+      ""date"": ""18. 06. 2003"",
+      ""number"": ""P2973"",
+      ""amount"": ""64, 25"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Bearbeiten eines Implantatkopfes""
+    },
+    {
+      ""date"": ""18. 06. 2003"",
+      ""number"": ""P3191"",
+      ""amount"": ""33, 60"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Straumann WN Manipulierimplantat für synOcta; grau; Länge 12, 00 mm; Stahl rostfrei; Art. Nr.: 048.171""
+    },
+    {
+      ""date"": ""18. 06. 2003"",
+      ""number"": ""P3214"",
+      ""amount"": ""150, 00"",
+      ""factor"": ""1, 00"",
+      ""description"": ""Straumann WN synOcta Abgewinkelt; Sekundärteil; 15°; Typ A; Höhe 5, 5 mm B; Titan; Art. Nr.: 048.608""
+    },
+    {
+      ""date"": ""18. 06. 2003"",
+      ""number"": ""P9035"",
+      ""amount"": ""83, 81"",
+      ""factor"": ""3, 70"",
+      ""description"": ""MainbondSun – aufbrennfähig – 17005 Bestandteile: 74, 0 % Au; 14, 5 % Ag; 1, 5 % Pt; 5, 5 % Pd; 3, 3 % Zn; 1, 0 % In; 0,1 Ta; 0, 1 % Ir""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Maxim Peterson"",""address"":""Alex-Müller Strasse 89, App. 23"",""city"":""Frankfurt"",""postal_code"":""33112"",""country"":""Deutschland""},""invoice"":{""number"":""43523/073245"",""date"":""20. 07. 2003"",""due_date"":""20. 08. 2003"",""total_amount"":""380, 21 EUR""},""diagnosis"":[""Fibroadenom"",""Osteoporose"",""Cephalgie"",""Skabies""],""items"":[{""date"":""18. 06. 2003"",""number"":""P2922"",""amount"":""3, 97"",""factor"":""1, 00"",""description"":""Krone/Inlay/Brückenglied aufpassen""},{""date"":""18. 06. 2003"",""number"":""P2971"",""amount"":""44, 58"",""factor"":""1, 00"",""description"":""Aufwand bei Suprastruktur auf Implantat""},{""date"":""18. 06. 2003"",""number"":""P2973"",""amount"":""64, 25"",""factor"":""1, 00"",""description"":""Bearbeiten eines Implantatkopfes""},{""date"":""18. 06. 2003"",""number"":""P3191"",""amount"":""33, 60"",""factor"":""1, 00"",""description"":""Straumann WN Manipulierimplantat für synOcta; grau; Länge 12, 00 mm; Stahl rostfrei; Art. Nr.: 048.171""},{""date"":""18. 06. 2003"",""number"":""P3214"",""amount"":""150, 00"",""factor"":""1, 00"",""description"":""Straumann WN synOcta Abgewinkelt; Sekundärteil; 15deg; Typ A; Höhe 5, 5 mm B; Titan; Art. Nr.: 048.608""},{""date"":""18. 06. 2003"",""number"":""P9035"",""amount"":""83, 81"",""factor"":""3, 70"",""description"":""MainbondSun-aufbrennfähig-17005 Bestandteile: 74, 0 % Au; 14, 5 % Ag; 1, 5 % Pt; 5, 5 % Pd; 3, 3 % Zn; 1, 0 % In; 0,1 Ta; 0, 1 % Ir""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Maxim Peterson', address='Alex-Müller Strasse 89, App. 23', city='Frankfurt', postal_code='33112', country='Deutschland') invoice=Invoice(number='43523/073245', date='20. 07. 2003', due_date='20. 08. 2003', total_amount='380, 21 EUR') diagnosis=['Fibroadenom', 'Osteoporose', 'Cephalgie', 'Skabies'] items=[Item(date='18. 06. 2003', number='P2922', amount='3, 97', factor='1, 00', description='Krone/Inlay/Brückenglied aufpassen'), Item(date='18. 06. 2003', number='P2971', amount='44, 58', factor='1, 00', description='Aufwand bei Suprastruktur auf Implantat'), Item(date='18. 06. 2003', number='P2973', amount='64, 25', factor='1, 00', description='Bearbeiten eines Implantatkopfes'), Item(date='18. 06. 2003', number='P3191', amount='33, 60', factor='1, 00', description='Straumann WN Manipulierimplantat für synOcta; grau; Länge 12, 00 mm; Stahl rostfrei; Art. Nr.: 048.171'), Item(date='18. 06. 2003', number='P3214', amount='150, 00', factor='1, 00', description='Straumann WN synOcta Abgewinkelt; Sekundärteil; 15deg; Typ A; Höhe 5, 5 mm B; Titan; Art. Nr.: 048.608'), Item(date='18. 06. 2003', number='P9035', amount='83, 81', factor='3, 70', description='MainbondSun-aufbrennfähig-17005 Bestandteile: 74, 0 % Au; 14, 5 % Ag; 1, 5 % Pt; 5, 5 % Pd; 3, 3 % Zn; 1, 0 % In; 0,1 Ta; 0, 1 % Ir')]",,1
+pdf-genuine-type01b-013.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-013.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 06. 05  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Maria Zimmerman Rückfragen bitte an Fackelstrasse 67, App. 21 Service-center: 03452 232-367 85747 Hochspeyer Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 41, 22 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 73122/031123      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 19. 06. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 19. 07. 2005      65432 Frankfurt
+
+#### Diagnosen: Migräne, Varikozele, Ohnmacht, Rosasea, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 05. 2005 A5 10, 72 2, 30 Symptombezogene Untersuchung
+
+231 18, 76 2, 30 Wiedereingliderung Krone/ Inlay
+
+405 1, 40 2, 30 Entf. hart. u. weicher Zahnbeläge
+
+02. 06. 2005 403 4, 53 2, 30 Beseitigung von schrfen Kanten
+
+404 5, 81 2, 30 Beseitigung grober Vorkontakte
+
+### 41, 22 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|06. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 06. 05  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Maria Zimmerman Rückfragen bitte an Fackelstrasse 67, App. 21 Service-center: 03452 232-367 85747 Hochspeyer Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 41, 22 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 73122/031123      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 19. 06. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 19. 07. 2005      65432 Frankfurt
+
+#### Diagnosen: Migräne, Varikozele, Ohnmacht, Rosasea, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 05. 2005 A5 10, 72 2, 30 Symptombezogene Untersuchung
+
+231 18, 76 2, 30 Wiedereingliderung Krone/ Inlay
+
+405 1, 40 2, 30 Entf. hart. u. weicher Zahnbeläge
+
+02. 06. 2005 403 4, 53 2, 30 Beseitigung von schrfen Kanten
+
+404 5, 81 2, 30 Beseitigung grober Vorkontakte
+
+### 41, 22 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|06. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Maria Zimmerman"",
+    ""address"": ""Fackelstrasse 67, App. 21"",
+    ""city"": ""Hochspeyer"",
+    ""postal_code"": ""85747"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""73122/031123"",
+    ""date"": ""19. 06. 2005"",
+    ""due_date"": ""19. 07. 2005"",
+    ""total_amount"": ""41, 22""
+  },
+  ""diagnosis"": [
+    ""Migräne"",
+    ""Varikozele"",
+    ""Ohnmacht"",
+    ""Rosasea""
+  ],
+  ""items"": [
+    {
+      ""date"": ""23. 05. 2005"",
+      ""number"": ""A5"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Symptombezogene Untersuchung""
+    },
+    {
+      ""date"": ""23. 05. 2005"",
+      ""number"": ""231"",
+      ""amount"": ""18, 76"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Wiedereingliderung Krone/ Inlay""
+    },
+    {
+      ""date"": ""23. 05. 2005"",
+      ""number"": ""405"",
+      ""amount"": ""1, 40"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Entf. hart. u. weicher Zahnbeläge""
+    },
+    {
+      ""date"": ""02. 06. 2005"",
+      ""number"": ""403"",
+      ""amount"": ""4, 53"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beseitigung von schrfen Kanten""
+    },
+    {
+      ""date"": ""02. 06. 2005"",
+      ""number"": ""404"",
+      ""amount"": ""5, 81"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beseitigung grober Vorkontakte""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Maria Zimmerman"",""address"":""Fackelstrasse 67, App. 21"",""city"":""Hochspeyer"",""postal_code"":""85747"",""country"":""Deutschland""},""invoice"":{""number"":""73122/031123"",""date"":""19. 06. 2005"",""due_date"":""19. 07. 2005"",""total_amount"":""41, 22""},""diagnosis"":[""Migräne"",""Varikozele"",""Ohnmacht"",""Rosasea""],""items"":[{""date"":""23. 05. 2005"",""number"":""A5"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Symptombezogene Untersuchung""},{""date"":""23. 05. 2005"",""number"":""231"",""amount"":""18, 76"",""factor"":""2, 30"",""description"":""Wiedereingliderung Krone/ Inlay""},{""date"":""23. 05. 2005"",""number"":""405"",""amount"":""1, 40"",""factor"":""2, 30"",""description"":""Entf. hart. u. weicher Zahnbeläge""},{""date"":""02. 06. 2005"",""number"":""403"",""amount"":""4, 53"",""factor"":""2, 30"",""description"":""Beseitigung von schrfen Kanten""},{""date"":""02. 06. 2005"",""number"":""404"",""amount"":""5, 81"",""factor"":""2, 30"",""description"":""Beseitigung grober Vorkontakte""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Maria Zimmerman', address='Fackelstrasse 67, App. 21', city='Hochspeyer', postal_code='85747', country='Deutschland') invoice=Invoice(number='73122/031123', date='19. 06. 2005', due_date='19. 07. 2005', total_amount='41, 22') diagnosis=['Migräne', 'Varikozele', 'Ohnmacht', 'Rosasea'] items=[Item(date='23. 05. 2005', number='A5', amount='10, 72', factor='2, 30', description='Symptombezogene Untersuchung'), Item(date='23. 05. 2005', number='231', amount='18, 76', factor='2, 30', description='Wiedereingliderung Krone/ Inlay'), Item(date='23. 05. 2005', number='405', amount='1, 40', factor='2, 30', description='Entf. hart. u. weicher Zahnbeläge'), Item(date='02. 06. 2005', number='403', amount='4, 53', factor='2, 30', description='Beseitigung von schrfen Kanten'), Item(date='02. 06. 2005', number='404', amount='5, 81', factor='2, 30', description='Beseitigung grober Vorkontakte')]",,1
+pdf-genuine-type01b-014.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-014.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Eva Striegler Rückfragen bitte an Rosenstrasse 23, App. 12 Service-center: 03452 232-367 62810 Hauptstuhl Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 89, 54 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 42109/076121      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 09. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 10. 2006      65432 Frankfurt
+
+#### Diagnosen: Varikose, Patella-Fraktur, Epiglottitis, Katarakt, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+24. 08. 2006 007 6, 46 2, 30 Vitalitätsprüfung
+
+209 59, 04 3, 50 Dreiflächige Füllung erhöhter Zeitaufwand und
+Schwierigkeitsgrad beim exkavieren, da tiefe schwer
+zugängl. subging. Kavität
+
+203 8, 41 2, 30 Keil/Matraze/separiert
+
+29. 08. 2006 305 14, 23 2, 30 Stillung Blutung (z. B. übermassige Papillenblutung)
+
+405 1, 40 2, 30 Entf. hart. u. weicher Zahnbeläge
+
+### 89, 54 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 06 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Eva Striegler Rückfragen bitte an Rosenstrasse 23, App. 12 Service-center: 03452 232-367 62810 Hauptstuhl Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 89, 54 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 42109/076121      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 09. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 10. 2006      65432 Frankfurt
+
+#### Diagnosen: Varikose, Patella-Fraktur, Epiglottitis, Katarakt, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+24. 08. 2006 007 6, 46 2, 30 Vitalitätsprüfung
+
+209 59, 04 3, 50 Dreiflächige Füllung erhöhter Zeitaufwand und
+Schwierigkeitsgrad beim exkavieren, da tiefe schwer
+zugängl. subging. Kavität
+
+203 8, 41 2, 30 Keil/Matraze/separiert
+
+29. 08. 2006 305 14, 23 2, 30 Stillung Blutung (z. B. übermassige Papillenblutung)
+
+405 1, 40 2, 30 Entf. hart. u. weicher Zahnbeläge
+
+### 89, 54 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Eva Striegler"",
+    ""address"": ""Rosenstrasse 23, App. 12"",
+    ""city"": ""Hauptstuhl"",
+    ""postal_code"": ""62810"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""42109/076121"",
+    ""date"": ""25. 09. 2006"",
+    ""due_date"": ""25. 10. 2006"",
+    ""total_amount"": ""89, 54 EUR""
+  },
+  ""diagnosis"": [
+    ""Varikose"",
+    ""Patella-Fraktur"",
+    ""Epiglottitis"",
+    ""Katarakt""
+  ],
+  ""items"": [
+    {
+      ""date"": ""24. 08. 2006"",
+      ""number"": ""007"",
+      ""amount"": ""6, 46"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Vitalitätsprüfung""
+    },
+    {
+      ""date"": ""24. 08. 2006"",
+      ""number"": ""209"",
+      ""amount"": ""59, 04"",
+      ""factor"": ""3, 50"",
+      ""description"": ""Dreiflächige Füllung erhöhter Zeitaufwand und Schwierigkeitsgrad beim exkavieren, da tiefe schwer zugängl. subging. Kavität""
+    },
+    {
+      ""date"": ""24. 08. 2006"",
+      ""number"": ""203"",
+      ""amount"": ""8, 41"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Keil/Matraze/separiert""
+    },
+    {
+      ""date"": ""29. 08. 2006"",
+      ""number"": ""305"",
+      ""amount"": ""14, 23"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Stillung Blutung (z. B. übermassige Papillenblutung)""
+    },
+    {
+      ""date"": ""29. 08. 2006"",
+      ""number"": ""405"",
+      ""amount"": ""1, 40"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Entf. hart. u. weicher Zahnbeläge""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Eva Striegler"",""address"":""Rosenstrasse 23, App. 12"",""city"":""Hauptstuhl"",""postal_code"":""62810"",""country"":""Deutschland""},""invoice"":{""number"":""42109/076121"",""date"":""25. 09. 2006"",""due_date"":""25. 10. 2006"",""total_amount"":""89, 54 EUR""},""diagnosis"":[""Varikose"",""Patella-Fraktur"",""Epiglottitis"",""Katarakt""],""items"":[{""date"":""24. 08. 2006"",""number"":""007"",""amount"":""6, 46"",""factor"":""2, 30"",""description"":""Vitalitätsprüfung""},{""date"":""24. 08. 2006"",""number"":""209"",""amount"":""59, 04"",""factor"":""3, 50"",""description"":""Dreiflächige Füllung erhöhter Zeitaufwand und Schwierigkeitsgrad beim exkavieren, da tiefe schwer zugängl. subging. Kavität""},{""date"":""24. 08. 2006"",""number"":""203"",""amount"":""8, 41"",""factor"":""2, 30"",""description"":""Keil/Matraze/separiert""},{""date"":""29. 08. 2006"",""number"":""305"",""amount"":""14, 23"",""factor"":""2, 30"",""description"":""Stillung Blutung (z. B. übermassige Papillenblutung)""},{""date"":""29. 08. 2006"",""number"":""405"",""amount"":""1, 40"",""factor"":""2, 30"",""description"":""Entf. hart. u. weicher Zahnbeläge""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Eva Striegler', address='Rosenstrasse 23, App. 12', city='Hauptstuhl', postal_code='62810', country='Deutschland') invoice=Invoice(number='42109/076121', date='25. 09. 2006', due_date='25. 10. 2006', total_amount='89, 54 EUR') diagnosis=['Varikose', 'Patella-Fraktur', 'Epiglottitis', 'Katarakt'] items=[Item(date='24. 08. 2006', number='007', amount='6, 46', factor='2, 30', description='Vitalitätsprüfung'), Item(date='24. 08. 2006', number='209', amount='59, 04', factor='3, 50', description='Dreiflächige Füllung erhöhter Zeitaufwand und Schwierigkeitsgrad beim exkavieren, da tiefe schwer zugängl. subging. Kavität'), Item(date='24. 08. 2006', number='203', amount='8, 41', factor='2, 30', description='Keil/Matraze/separiert'), Item(date='29. 08. 2006', number='305', amount='14, 23', factor='2, 30', description='Stillung Blutung (z. B. übermassige Papillenblutung)'), Item(date='29. 08. 2006', number='405', amount='1, 40', factor='2, 30', description='Entf. hart. u. weicher Zahnbeläge')]",,1
+pdf-genuine-type01b-015.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-015.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 07  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Anna Strasser Rückfragen bitte an Pirmasenerstrasse 9, App. 32 Service-center: 03452 232-367 76423 Frankfurt Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 62, 95 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 53213/098432      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 04. 09. 2007      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 04. 10. 2007      65432 Frankfurt
+
+#### Diagnosen: Fersensporn, Pertussis, Patella-fraktur, Keratose, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+01. 08. 2007 407 14, 23 2, 30 Subgingvale Konkremetentfernung
+
+009 7, 75 2, 30 Intraorlae Infiltrationsanästhesie
+
+203 10, 61 2, 90 Besondere Maßnahmen beim Füllen von Kavitäten,
+Präparieren, Legen von Petraktionsfäden
+erschewerende Umstände auf Grund schwieriger
+Verhältnisse bei der Trockenlegung
+
+229 30, 36 3, 00 Entf. e. Einlagefüllung, e. Krone, e. Brückenankers,
+Abtrennen erheblich erschwert wegen dicker und sehr
+harter Metallkonstruktion der vorhandenden Krone
+
+### 62, 95 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 07 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 09. 07  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Anna Strasser Rückfragen bitte an Pirmasenerstrasse 9, App. 32 Service-center: 03452 232-367 76423 Frankfurt Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 62, 95 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 53213/098432      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 04. 09. 2007      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 04. 10. 2007      65432 Frankfurt
+
+#### Diagnosen: Fersensporn, Pertussis, Patella-fraktur, Keratose, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+01. 08. 2007 407 14, 23 2, 30 Subgingvale Konkremetentfernung
+
+009 7, 75 2, 30 Intraorlae Infiltrationsanästhesie
+
+203 10, 61 2, 90 Besondere Maßnahmen beim Füllen von Kavitäten,
+Präparieren, Legen von Petraktionsfäden
+erschewerende Umstände auf Grund schwieriger
+Verhältnisse bei der Trockenlegung
+
+229 30, 36 3, 00 Entf. e. Einlagefüllung, e. Krone, e. Brückenankers,
+Abtrennen erheblich erschwert wegen dicker und sehr
+harter Metallkonstruktion der vorhandenden Krone
+
+### 62, 95 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|09. 07 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Anna Strasser"",
+    ""address"": ""Pirmasenerstrasse 9, App. 32"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""76423"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""53213/098432"",
+    ""date"": ""04. 09. 2007"",
+    ""due_date"": ""04. 10. 2007"",
+    ""total_amount"": ""62, 95""
+  },
+  ""diagnosis"": [
+    ""Fersensporn"",
+    ""Pertussis"",
+    ""Patella-fraktur"",
+    ""Keratose""
+  ],
+  ""items"": [
+    {
+      ""date"": ""01. 08. 2007"",
+      ""number"": ""407"",
+      ""amount"": ""14, 23"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Subgingvale Konkremetentfernung""
+    },
+    {
+      ""date"": ""01. 08. 2007"",
+      ""number"": ""009"",
+      ""amount"": ""7, 75"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Intraorlae Infiltrationsanästhesie""
+    },
+    {
+      ""date"": ""01. 08. 2007"",
+      ""number"": ""203"",
+      ""amount"": ""10, 61"",
+      ""factor"": ""2, 90"",
+      ""description"": ""Besondere Maßnahmen beim Füllen von Kavitäten, Präparieren, Legen von Petraktionsfäden erschewerende Umstände auf Grund schwieriger Verhältnisse bei der Trockenlegung""
+    },
+    {
+      ""date"": ""01. 08. 2007"",
+      ""number"": ""229"",
+      ""amount"": ""30, 36"",
+      ""factor"": ""3, 00"",
+      ""description"": ""Entf. e. Einlagefüllung, e. Krone, e. Brückenankers, Abtrennen erheblich erschwert wegen dicker und sehr harter Metallkonstruktion der vorhandenden Krone""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Anna Strasser"",""address"":""Pirmasenerstrasse 9, App. 32"",""city"":""Frankfurt"",""postal_code"":""76423"",""country"":""Deutschland""},""invoice"":{""number"":""53213/098432"",""date"":""04. 09. 2007"",""due_date"":""04. 10. 2007"",""total_amount"":""62, 95""},""diagnosis"":[""Fersensporn"",""Pertussis"",""Patella-fraktur"",""Keratose""],""items"":[{""date"":""01. 08. 2007"",""number"":""407"",""amount"":""14, 23"",""factor"":""2, 30"",""description"":""Subgingvale Konkremetentfernung""},{""date"":""01. 08. 2007"",""number"":""009"",""amount"":""7, 75"",""factor"":""2, 30"",""description"":""Intraorlae Infiltrationsanästhesie""},{""date"":""01. 08. 2007"",""number"":""203"",""amount"":""10, 61"",""factor"":""2, 90"",""description"":""Besondere Maßnahmen beim Füllen von Kavitäten, Präparieren, Legen von Petraktionsfäden erschewerende Umstände auf Grund schwieriger Verhältnisse bei der Trockenlegung""},{""date"":""01. 08. 2007"",""number"":""229"",""amount"":""30, 36"",""factor"":""3, 00"",""description"":""Entf. e. Einlagefüllung, e. Krone, e. Brückenankers, Abtrennen erheblich erschwert wegen dicker und sehr harter Metallkonstruktion der vorhandenden Krone""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Anna Strasser', address='Pirmasenerstrasse 9, App. 32', city='Frankfurt', postal_code='76423', country='Deutschland') invoice=Invoice(number='53213/098432', date='04. 09. 2007', due_date='04. 10. 2007', total_amount='62, 95') diagnosis=['Fersensporn', 'Pertussis', 'Patella-fraktur', 'Keratose'] items=[Item(date='01. 08. 2007', number='407', amount='14, 23', factor='2, 30', description='Subgingvale Konkremetentfernung'), Item(date='01. 08. 2007', number='009', amount='7, 75', factor='2, 30', description='Intraorlae Infiltrationsanästhesie'), Item(date='01. 08. 2007', number='203', amount='10, 61', factor='2, 90', description='Besondere Maßnahmen beim Füllen von Kavitäten, Präparieren, Legen von Petraktionsfäden erschewerende Umstände auf Grund schwieriger Verhältnisse bei der Trockenlegung'), Item(date='01. 08. 2007', number='229', amount='30, 36', factor='3, 00', description='Entf. e. Einlagefüllung, e. Krone, e. Brückenankers, Abtrennen erheblich erschwert wegen dicker und sehr harter Metallkonstruktion der vorhandenden Krone')]",,1
+pdf-genuine-type01b-016.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-016.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 05. 05  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Marc Stobbe Rückfragen bitte an Kanal Strasse 34, App. 83 Service-center: 03452 232-367 42132 Mainz Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 110, 88 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 21342/090845      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 05. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 24. 06. 2005      65432 Frankfurt
+
+#### Diagnosen: Konjunktivitis, Lumbago, Kreuzbadriss, Kala-Azar, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 04. 2005 218 50, 64 3, 00 Vorbereit. e. zerstörten Zahnes m. plast. Aufbaumat.
+für ZE besonderer Umstand durch zusätzliche
+Retentionsgewinnung bei klinisch kurzer Krone
+(erschwerte Retenionsgewinnung)
+
+233 14, 23 2, 30 Maßnahmen zur Erhaltung der vitalen Pulpa bei Caries
+profunda
+
+13, 96 Alginat
+
+20, 95 Silagum Gr. 5
+
+11, 10 Doppelmischabdruck
+
+### 110, 88 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|05. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 05. 05  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Marc Stobbe Rückfragen bitte an Kanal Strasse 34, App. 83 Service-center: 03452 232-367 42132 Mainz Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 110, 88 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 21342/090845      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 20. 05. 2005      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 24. 06. 2005      65432 Frankfurt
+
+#### Diagnosen: Konjunktivitis, Lumbago, Kreuzbadriss, Kala-Azar, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 04. 2005 218 50, 64 3, 00 Vorbereit. e. zerstörten Zahnes m. plast. Aufbaumat.
+für ZE besonderer Umstand durch zusätzliche
+Retentionsgewinnung bei klinisch kurzer Krone
+(erschwerte Retenionsgewinnung)
+
+233 14, 23 2, 30 Maßnahmen zur Erhaltung der vitalen Pulpa bei Caries
+profunda
+
+13, 96 Alginat
+
+20, 95 Silagum Gr. 5
+
+11, 10 Doppelmischabdruck
+
+### 110, 88 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|05. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Marc Stobbe"",
+    ""address"": ""Kanal Strasse 34, App. 83"",
+    ""city"": ""Mainz"",
+    ""postal_code"": ""42132"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""21342/090845"",
+    ""date"": ""20. 05. 2005"",
+    ""due_date"": ""24. 06. 2005"",
+    ""total_amount"": ""110, 88""
+  },
+  ""diagnosis"": [
+    ""Konjunktivitis"",
+    ""Lumbago"",
+    ""Kreuzbadriss"",
+    ""Kala-Azar""
+  ],
+  ""items"": [
+    {
+      ""date"": ""23. 04. 2005"",
+      ""number"": ""218"",
+      ""amount"": ""50, 64"",
+      ""factor"": ""3, 00"",
+      ""description"": ""Vorbereit. e. zerstörten Zahnes m. plast. Aufbaumat. für ZE besonderer Umstand durch zusätzliche Retentionsgewinnung bei klinisch kurzer Krone (erschwerte Retenionsgewinnung)""
+    },
+    {
+      ""date"": ""23. 04. 2005"",
+      ""number"": ""233"",
+      ""amount"": ""14, 23"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Maßnahmen zur Erhaltung der vitalen Pulpa bei Caries profunda""
+    },
+    {
+      ""date"": ""23. 04. 2005"",
+      ""number"": null,
+      ""amount"": ""13, 96"",
+      ""factor"": null,
+      ""description"": ""Alginat""
+    },
+    {
+      ""date"": ""23. 04. 2005"",
+      ""number"": null,
+      ""amount"": ""20, 95"",
+      ""factor"": null,
+      ""description"": ""Silagum Gr. 5""
+    },
+    {
+      ""date"": ""23. 04. 2005"",
+      ""number"": null,
+      ""amount"": ""11, 10"",
+      ""factor"": null,
+      ""description"": ""Doppelmischabdruck""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Marc Stobbe"",""address"":""Kanal Strasse 34, App. 83"",""city"":""Mainz"",""postal_code"":""42132"",""country"":""Deutschland""},""invoice"":{""number"":""21342/090845"",""date"":""20. 05. 2005"",""due_date"":""24. 06. 2005"",""total_amount"":""110, 88""},""diagnosis"":[""Konjunktivitis"",""Lumbago"",""Kreuzbadriss"",""Kala-Azar""],""items"":[{""date"":""23. 04. 2005"",""number"":""218"",""amount"":""50, 64"",""factor"":""3, 00"",""description"":""Vorbereit. e. zerstörten Zahnes m. plast. Aufbaumat. für ZE besonderer Umstand durch zusätzliche Retentionsgewinnung bei klinisch kurzer Krone (erschwerte Retenionsgewinnung)""},{""date"":""23. 04. 2005"",""number"":""233"",""amount"":""14, 23"",""factor"":""2, 30"",""description"":""Maßnahmen zur Erhaltung der vitalen Pulpa bei Caries profunda""},{""date"":""23. 04. 2005"",""number"":null,""amount"":""13, 96"",""factor"":null,""description"":""Alginat""},{""date"":""23. 04. 2005"",""number"":null,""amount"":""20, 95"",""factor"":null,""description"":""Silagum Gr. 5""},{""date"":""23. 04. 2005"",""number"":null,""amount"":""11, 10"",""factor"":null,""description"":""Doppelmischabdruck""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Marc Stobbe', address='Kanal Strasse 34, App. 83', city='Mainz', postal_code='42132', country='Deutschland') invoice=Invoice(number='21342/090845', date='20. 05. 2005', due_date='24. 06. 2005', total_amount='110, 88') diagnosis=['Konjunktivitis', 'Lumbago', 'Kreuzbadriss', 'Kala-Azar'] items=[Item(date='23. 04. 2005', number='218', amount='50, 64', factor='3, 00', description='Vorbereit. e. zerstörten Zahnes m. plast. Aufbaumat. für ZE besonderer Umstand durch zusätzliche Retentionsgewinnung bei klinisch kurzer Krone (erschwerte Retenionsgewinnung)'), Item(date='23. 04. 2005', number='233', amount='14, 23', factor='2, 30', description='Maßnahmen zur Erhaltung der vitalen Pulpa bei Caries profunda'), Item(date='23. 04. 2005', number=None, amount='13, 96', factor=None, description='Alginat'), Item(date='23. 04. 2005', number=None, amount='20, 95', factor=None, description='Silagum Gr. 5'), Item(date='23. 04. 2005', number=None, amount='11, 10', factor=None, description='Doppelmischabdruck')]",,1
+pdf-genuine-type01b-017.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-017.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 11. 06  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Eduard Strack Rückfragen bitte an Fackelstrasse 34, App. 12 Service-center: 03452 232-367 78453 Hassloch Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 153, 36 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 21342/098320      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 17. 11. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 17. 12. 2006      65432 Frankfurt
+
+#### Diagnosen: Cholelithiasis, Colitis ulcerosa, Claviculafraktur, Commotio cerebri, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+01. 10. 2006 6 13, 41 2, 30 Untersuchung eines Organsystems
+
+2  X 1415 24, 40 2, 30 Binokularmikroskopie
+
+1418 24, 13 2, 30 Endoskopie, Nasen-/Rachenraumm
+
+19. 10. 2006 11, 10 Doppelmischabdruck
+
+2  X 623 29, 38 1, 80 Thermographie
+
+410 26, 81 2, 30 Sonographie eines Organs
+
+1105 24, 13 2, 30 Zellmaterial, Gebärmutterhöhle
+
+### 153, 36 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|11. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 11. 06  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Eduard Strack Rückfragen bitte an Fackelstrasse 34, App. 12 Service-center: 03452 232-367 78453 Hassloch Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 153, 36 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 21342/098320      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 17. 11. 2006      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 17. 12. 2006      65432 Frankfurt
+
+#### Diagnosen: Cholelithiasis, Colitis ulcerosa, Claviculafraktur, Commotio cerebri, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+01. 10. 2006 6 13, 41 2, 30 Untersuchung eines Organsystems
+
+2  X 1415 24, 40 2, 30 Binokularmikroskopie
+
+1418 24, 13 2, 30 Endoskopie, Nasen-/Rachenraumm
+
+19. 10. 2006 11, 10 Doppelmischabdruck
+
+2  X 623 29, 38 1, 80 Thermographie
+
+410 26, 81 2, 30 Sonographie eines Organs
+
+1105 24, 13 2, 30 Zellmaterial, Gebärmutterhöhle
+
+### 153, 36 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|11. 06 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Eduard Strack"",
+    ""address"": ""Fackelstrasse 34, App. 12"",
+    ""city"": ""Hassloch"",
+    ""postal_code"": ""78453"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""21342/098320"",
+    ""date"": ""17. 11. 2006"",
+    ""due_date"": ""17. 12. 2006"",
+    ""total_amount"": ""153, 36""
+  },
+  ""diagnosis"": [
+    ""Cholelithiasis"",
+    ""Colitis ulcerosa"",
+    ""Claviculafraktur"",
+    ""Commotio cerebri""
+  ],
+  ""items"": [
+    {
+      ""date"": ""01. 10. 2006"",
+      ""number"": ""6"",
+      ""amount"": ""13, 41"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Untersuchung eines Organsystems""
+    },
+    {
+      ""date"": ""01. 10. 2006"",
+      ""number"": ""2 X 1415"",
+      ""amount"": ""24, 40"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Binokularmikroskopie""
+    },
+    {
+      ""date"": ""01. 10. 2006"",
+      ""number"": ""1418"",
+      ""amount"": ""24, 13"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Endoskopie, Nasen-\/Rachenraumm""
+    },
+    {
+      ""date"": ""19. 10. 2006"",
+      ""number"": ""11, 10"",
+      ""amount"": null,
+      ""factor"": null,
+      ""description"": ""Doppelmischabdruck""
+    },
+    {
+      ""date"": ""19. 10. 2006"",
+      ""number"": ""2 X 623"",
+      ""amount"": ""29, 38"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Thermographie""
+    },
+    {
+      ""date"": ""19. 10. 2006"",
+      ""number"": ""410"",
+      ""amount"": ""26, 81"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Sonographie eines Organs""
+    },
+    {
+      ""date"": ""19. 10. 2006"",
+      ""number"": ""1105"",
+      ""amount"": ""24, 13"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Zellmaterial, Gebärmutterhöhle""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Eduard Strack"",""address"":""Fackelstrasse 34, App. 12"",""city"":""Hassloch"",""postal_code"":""78453"",""country"":""Deutschland""},""invoice"":{""number"":""21342/098320"",""date"":""17. 11. 2006"",""due_date"":""17. 12. 2006"",""total_amount"":""153, 36""},""diagnosis"":[""Cholelithiasis"",""Colitis ulcerosa"",""Claviculafraktur"",""Commotio cerebri""],""items"":[{""date"":""01. 10. 2006"",""number"":""6"",""amount"":""13, 41"",""factor"":""2, 30"",""description"":""Untersuchung eines Organsystems""},{""date"":""01. 10. 2006"",""number"":""2 X 1415"",""amount"":""24, 40"",""factor"":""2, 30"",""description"":""Binokularmikroskopie""},{""date"":""01. 10. 2006"",""number"":""1418"",""amount"":""24, 13"",""factor"":""2, 30"",""description"":""Endoskopie, Nasen-/Rachenraumm""},{""date"":""19. 10. 2006"",""number"":""11, 10"",""amount"":null,""factor"":null,""description"":""Doppelmischabdruck""},{""date"":""19. 10. 2006"",""number"":""2 X 623"",""amount"":""29, 38"",""factor"":""1, 80"",""description"":""Thermographie""},{""date"":""19. 10. 2006"",""number"":""410"",""amount"":""26, 81"",""factor"":""2, 30"",""description"":""Sonographie eines Organs""},{""date"":""19. 10. 2006"",""number"":""1105"",""amount"":""24, 13"",""factor"":""2, 30"",""description"":""Zellmaterial, Gebärmutterhöhle""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Eduard Strack', address='Fackelstrasse 34, App. 12', city='Hassloch', postal_code='78453', country='Deutschland') invoice=Invoice(number='21342/098320', date='17. 11. 2006', due_date='17. 12. 2006', total_amount='153, 36') diagnosis=['Cholelithiasis', 'Colitis ulcerosa', 'Claviculafraktur', 'Commotio cerebri'] items=[Item(date='01. 10. 2006', number='6', amount='13, 41', factor='2, 30', description='Untersuchung eines Organsystems'), Item(date='01. 10. 2006', number='2 X 1415', amount='24, 40', factor='2, 30', description='Binokularmikroskopie'), Item(date='01. 10. 2006', number='1418', amount='24, 13', factor='2, 30', description='Endoskopie, Nasen-/Rachenraumm'), Item(date='19. 10. 2006', number='11, 10', amount=None, factor=None, description='Doppelmischabdruck'), Item(date='19. 10. 2006', number='2 X 623', amount='29, 38', factor='1, 80', description='Thermographie'), Item(date='19. 10. 2006', number='410', amount='26, 81', factor='2, 30', description='Sonographie eines Organs'), Item(date='19. 10. 2006', number='1105', amount='24, 13', factor='2, 30', description='Zellmaterial, Gebärmutterhöhle')]",,1
+pdf-genuine-type01b-018.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-018.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 05. 04  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Angelika Streit Rückfragen bitte an Erfurterstrasse 67, App. 21 Service-center: 03452 232-367 35212 Leipzig Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 75, 06 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 29468/076345      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 05. 2004      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 06. 2004      65432 Frankfurt
+
+#### Diagnosen: Clonorchiasis, Crohn, Pylorusstenose, Masern, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 03. 2004 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+3508 5, 36 1, 15 Mikroskopische Unters. e. Nativpräparats
+
+30. 03. 2004 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+4711 8, 04 1, 15 Lichmikroskopisch Pilze, n. Präparation
+
+15. 04. 2004 410 26, 81 2, 30 Sonographie eines Organs
+
+1105 24, 13 2, 30 Zellmaterial, Gebärmutterhöhle
+
+### 75, 06 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|05. 04 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 05. 04  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Angelika Streit Rückfragen bitte an Erfurterstrasse 67, App. 21 Service-center: 03452 232-367 35212 Leipzig Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 75, 06 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 29468/076345      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 05. 2004      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 06. 2004      65432 Frankfurt
+
+#### Diagnosen: Clonorchiasis, Crohn, Pylorusstenose, Masern, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+23. 03. 2004 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+3508 5, 36 1, 15 Mikroskopische Unters. e. Nativpräparats
+
+30. 03. 2004 298 5, 36 2, 30 Abstrichentnahme z. mikrobiolog. Unters.
+
+4711 8, 04 1, 15 Lichmikroskopisch Pilze, n. Präparation
+
+15. 04. 2004 410 26, 81 2, 30 Sonographie eines Organs
+
+1105 24, 13 2, 30 Zellmaterial, Gebärmutterhöhle
+
+### 75, 06 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|05. 04 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Angelika Streit"",
+    ""address"": ""Erfurterstrasse 67, App. 21"",
+    ""city"": ""Leipzig"",
+    ""postal_code"": ""35212"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""29468/076345"",
+    ""date"": ""25. 05. 2004"",
+    ""due_date"": ""25. 06. 2004"",
+    ""total_amount"": ""75, 06""
+  },
+  ""diagnosis"": [
+    ""Clonorchiasis"",
+    ""Crohn"",
+    ""Pylorusstenose"",
+    ""Masern""
+  ],
+  ""items"": [
+    {
+      ""date"": ""23. 03. 2004"",
+      ""number"": ""298"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Abstrichentnahme z. mikrobiolog. Unters.""
+    },
+    {
+      ""date"": ""23. 03. 2004"",
+      ""number"": ""3508"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Mikroskopische Unters. e. Nativpräparats""
+    },
+    {
+      ""date"": ""30. 03. 2004"",
+      ""number"": ""298"",
+      ""amount"": ""5, 36"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Abstrichentnahme z. mikrobiolog. Unters.""
+    },
+    {
+      ""date"": ""30. 03. 2004"",
+      ""number"": ""4711"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Lichmikroskopisch Pilze, n. Präparation""
+    },
+    {
+      ""date"": ""15. 04. 2004"",
+      ""number"": ""410"",
+      ""amount"": ""26, 81"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Sonographie eines Organs""
+    },
+    {
+      ""date"": ""15. 04. 2004"",
+      ""number"": ""1105"",
+      ""amount"": ""24, 13"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Zellmaterial, Gebärmutterhöhle""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Angelika Streit"",""address"":""Erfurterstrasse 67, App. 21"",""city"":""Leipzig"",""postal_code"":""35212"",""country"":""Deutschland""},""invoice"":{""number"":""29468/076345"",""date"":""25. 05. 2004"",""due_date"":""25. 06. 2004"",""total_amount"":""75, 06""},""diagnosis"":[""Clonorchiasis"",""Crohn"",""Pylorusstenose"",""Masern""],""items"":[{""date"":""23. 03. 2004"",""number"":""298"",""amount"":""5, 36"",""factor"":""2, 30"",""description"":""Abstrichentnahme z. mikrobiolog. Unters.""},{""date"":""23. 03. 2004"",""number"":""3508"",""amount"":""5, 36"",""factor"":""1, 15"",""description"":""Mikroskopische Unters. e. Nativpräparats""},{""date"":""30. 03. 2004"",""number"":""298"",""amount"":""5, 36"",""factor"":""2, 30"",""description"":""Abstrichentnahme z. mikrobiolog. Unters.""},{""date"":""30. 03. 2004"",""number"":""4711"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Lichmikroskopisch Pilze, n. Präparation""},{""date"":""15. 04. 2004"",""number"":""410"",""amount"":""26, 81"",""factor"":""2, 30"",""description"":""Sonographie eines Organs""},{""date"":""15. 04. 2004"",""number"":""1105"",""amount"":""24, 13"",""factor"":""2, 30"",""description"":""Zellmaterial, Gebärmutterhöhle""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Angelika Streit', address='Erfurterstrasse 67, App. 21', city='Leipzig', postal_code='35212', country='Deutschland') invoice=Invoice(number='29468/076345', date='25. 05. 2004', due_date='25. 06. 2004', total_amount='75, 06') diagnosis=['Clonorchiasis', 'Crohn', 'Pylorusstenose', 'Masern'] items=[Item(date='23. 03. 2004', number='298', amount='5, 36', factor='2, 30', description='Abstrichentnahme z. mikrobiolog. Unters.'), Item(date='23. 03. 2004', number='3508', amount='5, 36', factor='1, 15', description='Mikroskopische Unters. e. Nativpräparats'), Item(date='30. 03. 2004', number='298', amount='5, 36', factor='2, 30', description='Abstrichentnahme z. mikrobiolog. Unters.'), Item(date='30. 03. 2004', number='4711', amount='8, 04', factor='1, 15', description='Lichmikroskopisch Pilze, n. Präparation'), Item(date='15. 04. 2004', number='410', amount='26, 81', factor='2, 30', description='Sonographie eines Organs'), Item(date='15. 04. 2004', number='1105', amount='24, 13', factor='2, 30', description='Zellmaterial, Gebärmutterhöhle')]",,1
+pdf-genuine-type01b-019.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-019.pdf,"876 � Inland � 6873 /6237 � Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) � Alex- Müller Str. 32� 34 � 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+
+### 374 / / 006225 /28 / / 45356 08. 05 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Ursula Thompson Rückfragen bitte an Talstrasse 122 Service - center: 03452 232 - 367 89664 Mannheim Mo. - Do. 8:00 � 18:00 Uhr, Fr. 8:00 � 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 50, 00 EUR     Dr. med. Horst Williard
+
+ Rechnungsnummer 31231 / 053212     Arzt für Hals� Nasen - Ohrenheilkunde
+
+ Rechnungsdatum 13. 08. 2005     Mainzerstr. 11
+
+ Bitte zahlen Sie bis 13. 09. 2005     65432 Frankfurt
+
+#### Diagnosen: Colitis ulcerosa, Chronisch obstruktive Lungenerkrankung, Chagas - Krankheit, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+10. 07. 2005 1 10, 72 2, 30 Beratung � auch mittels Fernsprecher 
+7 21, 45 2, 30 Untersuchung eines Organsystems
+
+1070 9, 79 2, 30 Koloskopie
+
+19. 07. 2005 3584 . H1 2, 68 1, 15 Harnstoff (Harnstoff - N, Bun)
+
+3585 . H1 2, 68 1, 15 Kreatinin
+
+3587 . H1 2, 68 1, 15 Alkalische Phosphatase
+
+### 50, 00 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung
+Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex - Müller Str. 32 - 34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374 / / 006225 /28 / / 45356|08. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876  Inland  6873 /6237  Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II)  Alex- Müller Str. 32 34  64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+
+### 374 / / 006225 /28 / / 45356 08. 05 0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Ursula Thompson Rückfragen bitte an Talstrasse 122 Service - center: 03452 232 - 367 89664 Mannheim Mo. - Do. 8:00  18:00 Uhr, Fr. 8:00  15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 50, 00 EUR     Dr. med. Horst Williard
+
+ Rechnungsnummer 31231 / 053212     Arzt für Hals Nasen - Ohrenheilkunde
+
+ Rechnungsdatum 13. 08. 2005     Mainzerstr. 11
+
+ Bitte zahlen Sie bis 13. 09. 2005     65432 Frankfurt
+
+#### Diagnosen: Colitis ulcerosa, Chronisch obstruktive Lungenerkrankung, Chagas - Krankheit, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+10. 07. 2005 1 10, 72 2, 30 Beratung  auch mittels Fernsprecher 
+7 21, 45 2, 30 Untersuchung eines Organsystems
+
+1070 9, 79 2, 30 Koloskopie
+
+19. 07. 2005 3584 . H1 2, 68 1, 15 Harnstoff (Harnstoff - N, Bun)
+
+3585 . H1 2, 68 1, 15 Kreatinin
+
+3587 . H1 2, 68 1, 15 Alkalische Phosphatase
+
+### 50, 00 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung
+Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex - Müller Str. 32 - 34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374 / / 006225 /28 / / 45356|08. 05 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals Nasen - Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Ursula Thompson"",
+    ""address"": ""Talstrasse 122"",
+    ""city"": ""Mannheim"",
+    ""postal_code"": ""89664"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""31231 / 053212"",
+    ""date"": ""13. 08. 2005"",
+    ""due_date"": ""13. 09. 2005"",
+    ""total_amount"": ""50, 00""
+  },
+  ""diagnosis"": [
+    ""Colitis ulcerosa"",
+    ""Chronisch obstruktive Lungenerkrankung"",
+    ""Chagas - Krankheit""
+  ],
+  ""items"": [
+    {
+      ""date"": ""10. 07. 2005"",
+      ""number"": ""1"",
+      ""amount"": ""10, 72"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Beratung  auch mittels Fernsprecher""
+    },
+    {
+      ""date"": ""10. 07. 2005"",
+      ""number"": ""7"",
+      ""amount"": ""21, 45"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Untersuchung eines Organsystems""
+    },
+    {
+      ""date"": ""10. 07. 2005"",
+      ""number"": ""1070"",
+      ""amount"": ""9, 79"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Koloskopie""
+    },
+    {
+      ""date"": ""19. 07. 2005"",
+      ""number"": ""3584 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Harnstoff (Harnstoff - N, Bun)""
+    },
+    {
+      ""date"": ""19. 07. 2005"",
+      ""number"": ""3585 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Kreatinin""
+    },
+    {
+      ""date"": ""19. 07. 2005"",
+      ""number"": ""3587 . H1"",
+      ""amount"": ""2, 68"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Alkalische Phosphatase""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Ursula Thompson"",""address"":""Talstrasse 122"",""city"":""Mannheim"",""postal_code"":""89664"",""country"":""Deutschland""},""invoice"":{""number"":""31231 / 053212"",""date"":""13. 08. 2005"",""due_date"":""13. 09. 2005"",""total_amount"":""50, 00""},""diagnosis"":[""Colitis ulcerosa"",""Chronisch obstruktive Lungenerkrankung"",""Chagas-Krankheit""],""items"":[{""date"":""10. 07. 2005"",""number"":""1"",""amount"":""10, 72"",""factor"":""2, 30"",""description"":""Beratung auch mittels Fernsprecher""},{""date"":""10. 07. 2005"",""number"":""7"",""amount"":""21, 45"",""factor"":""2, 30"",""description"":""Untersuchung eines Organsystems""},{""date"":""10. 07. 2005"",""number"":""1070"",""amount"":""9, 79"",""factor"":""2, 30"",""description"":""Koloskopie""},{""date"":""19. 07. 2005"",""number"":""3584 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Harnstoff (Harnstoff-N, Bun)""},{""date"":""19. 07. 2005"",""number"":""3585 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Kreatinin""},{""date"":""19. 07. 2005"",""number"":""3587 . H1"",""amount"":""2, 68"",""factor"":""1, 15"",""description"":""Alkalische Phosphatase""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Ursula Thompson', address='Talstrasse 122', city='Mannheim', postal_code='89664', country='Deutschland') invoice=Invoice(number='31231 / 053212', date='13. 08. 2005', due_date='13. 09. 2005', total_amount='50, 00') diagnosis=['Colitis ulcerosa', 'Chronisch obstruktive Lungenerkrankung', 'Chagas-Krankheit'] items=[Item(date='10. 07. 2005', number='1', amount='10, 72', factor='2, 30', description='Beratung auch mittels Fernsprecher'), Item(date='10. 07. 2005', number='7', amount='21, 45', factor='2, 30', description='Untersuchung eines Organsystems'), Item(date='10. 07. 2005', number='1070', amount='9, 79', factor='2, 30', description='Koloskopie'), Item(date='19. 07. 2005', number='3584 . H1', amount='2, 68', factor='1, 15', description='Harnstoff (Harnstoff-N, Bun)'), Item(date='19. 07. 2005', number='3585 . H1', amount='2, 68', factor='1, 15', description='Kreatinin'), Item(date='19. 07. 2005', number='3587 . H1', amount='2, 68', factor='1, 15', description='Alkalische Phosphatase')]",,1
+pdf-genuine-type01b-020.pdf,/lakehouse/default/Files/dataset-doctor-bills/pdfs/type01/type01b/pdf-genuine-type01b-020.pdf,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 07. 03  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Hans Wild Rückfragen bitte an Humboldtstrasse 51, App. 76 Service-center: 03452 232-367 45535 Weilerbach Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## Herrn
+
+### Rechnungsbetrag 67, 21 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 23435/043232      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 07. 2003      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 08. 2003      65432 Frankfurt
+
+#### Diagnosen: Oxyuriasis, Pylorusstenose, Rektum-Prolaps, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+10. 06. 2003 602 15, 95 1, 80 Oxymetrische Untersuchung
+
+605 25, 39 1, 80 Ruhespirographische Untersuchung
+
+1070 9, 79 2, 30 Koloskopie
+
+20. 06. 2003 4716 8, 04 1, 15 Nachweis Pilze – aufwendige Nährmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+4717 8, 04 1, 15 Züchtung Pilze - Differenzierungsmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+### 67, 21 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|07. 03 0, 55 EUR|
+|---|---|
+
+
+-----
+
+",,"876 – Inland – 6873/6237 – Standard    ½
+
+# Rechnung                        
+
+PVS Büdingen (AZ II) – Alex-Müller Str. 32– 34 – 64322 Koblenz **Ärztliche VerrechnungsStelle Büdingen GmbH**
+### 374//006225/28//45356 07. 03  0, 55 EUR
+
+Die Rechnung wurde nach Anweisung des Artzes erstellt.
+Sie ist gemäß § 12 GOÄ / § 10 GOZ sofort fällig.
+
+## Hans Wild Rückfragen bitte an Humboldtstrasse 51, App. 76 Service-center: 03452 232-367 45535 Weilerbach Mo. - Do. 8:00 – 18:00 Uhr, Fr. 8:00 – 15:30 Uhr Deutschland
+
+**Die Rechnungserstellung efrolgt im Auftrag von**
+## ###  Rechnungsbetrag 67, 21 EUR      Dr. med. Horst Williard
+
+ Rechnungsnummer 23435/043232      Arzt für Hals– Nasen- Ohrenheilkunde
+
+ Rechnungsdatum 25. 07. 2003      Mainzerstr. 11
+
+ Bitte zahlen Sie bis 25. 08. 2003      65432 Frankfurt
+
+#### Diagnosen: Oxyuriasis, Pylorusstenose, Rektum-Prolaps, Spezifiziert nach GOÄ / Privat GOÄ 1996
+
+**Datum** **Nummer** **Betrag** **Faktor** **Leistungstext und Begründung**
+
+10. 06. 2003 602 15, 95 1, 80 Oxymetrische Untersuchung
+
+605 25, 39 1, 80 Ruhespirographische Untersuchung
+
+1070 9, 79 2, 30 Koloskopie
+
+20. 06. 2003 4716 8, 04 1, 15 Nachweis Pilze – aufwendige Nährmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+4717 8, 04 1, 15 Züchtung Pilze - Differenzierungsmedien
+
+Materialien -Auslage nach GOÄ § 10
+
+### 67, 21 EUR Rechnungsbetrag
+
+Die leistungen sind umstatzsteuerfrei nach § 4 UStG.
+Bitte beachten Sie: Spätestens 30 tage nach Fälligkeit und Zugang der Rechnung tritt gem. $ 286 III BGB ohne weitere Mahnung Verzug ein .
+
+Bankverbindungen: Geschäftsführer:
+Sparkasse Oberhessen, Koblenz, (BLZ 518 500 79) Kto.-Nr. 123 756 453 Betriebswirt Helmut Weissbrot
+IBAN: DE90 5342 0087 8465 7429 23, SWIFT-BIC: HELADEF1FRI Aufsichtsratsvorsitzender:
+Volksbank eG, Koblenz, (BLZ 507 453 34) Kto.-Nr. 180 342 Dr. med. Tobias Krupp
+Hausanschrift: Alex-Müller Str. 32-34, 64322 Koblenz AG Freiburg HRB 3652
+
+|374//006225/28//45356|07. 03 0, 55 EUR|
+|---|---|
+
+
+-----
+
+","{
+  ""doctor"": {
+    ""name"": ""Dr. med. Horst Williard"",
+    ""specialization"": ""Hals– Nasen- Ohrenheilkunde"",
+    ""address"": ""Mainzerstr. 11"",
+    ""city"": ""Frankfurt"",
+    ""postal_code"": ""65432""
+  },
+  ""patient"": {
+    ""name"": ""Hans Wild"",
+    ""address"": ""Humboldtstrasse 51, App. 76"",
+    ""city"": ""Weilerbach"",
+    ""postal_code"": ""45535"",
+    ""country"": ""Deutschland""
+  },
+  ""invoice"": {
+    ""number"": ""23435/043232"",
+    ""date"": ""25. 07. 2003"",
+    ""due_date"": ""25. 08. 2003"",
+    ""total_amount"": ""67, 21""
+  },
+  ""diagnosis"": [
+    ""Oxyuriasis"",
+    ""Pylorusstenose"",
+    ""Rektum-Prolaps""
+  ],
+  ""items"": [
+    {
+      ""date"": ""10. 06. 2003"",
+      ""number"": ""602"",
+      ""amount"": ""15, 95"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Oxymetrische Untersuchung""
+    },
+    {
+      ""date"": ""10. 06. 2003"",
+      ""number"": ""605"",
+      ""amount"": ""25, 39"",
+      ""factor"": ""1, 80"",
+      ""description"": ""Ruhespirographische Untersuchung""
+    },
+    {
+      ""date"": ""10. 06. 2003"",
+      ""number"": ""1070"",
+      ""amount"": ""9, 79"",
+      ""factor"": ""2, 30"",
+      ""description"": ""Koloskopie""
+    },
+    {
+      ""date"": ""20. 06. 2003"",
+      ""number"": ""4716"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Nachweis Pilze – aufwendige Nährmedien\n\nMaterialien -Auslage nach GOÄ § 10""
+    },
+    {
+      ""date"": ""20. 06. 2003"",
+      ""number"": ""4717"",
+      ""amount"": ""8, 04"",
+      ""factor"": ""1, 15"",
+      ""description"": ""Züchtung Pilze - Differenzierungsmedien\n\nMaterialien -Auslage nach GOÄ § 10""
+    }
+  ]
+}","{""doctor"":{""name"":""Dr. med. Horst Williard"",""specialization"":""Hals-Nasen-Ohrenheilkunde"",""address"":""Mainzerstr. 11"",""city"":""Frankfurt"",""postal_code"":""65432""},""patient"":{""name"":""Hans Wild"",""address"":""Humboldtstrasse 51, App. 76"",""city"":""Weilerbach"",""postal_code"":""45535"",""country"":""Deutschland""},""invoice"":{""number"":""23435/043232"",""date"":""25. 07. 2003"",""due_date"":""25. 08. 2003"",""total_amount"":""67, 21""},""diagnosis"":[""Oxyuriasis"",""Pylorusstenose"",""Rektum-Prolaps""],""items"":[{""date"":""10. 06. 2003"",""number"":""602"",""amount"":""15, 95"",""factor"":""1, 80"",""description"":""Oxymetrische Untersuchung""},{""date"":""10. 06. 2003"",""number"":""605"",""amount"":""25, 39"",""factor"":""1, 80"",""description"":""Ruhespirographische Untersuchung""},{""date"":""10. 06. 2003"",""number"":""1070"",""amount"":""9, 79"",""factor"":""2, 30"",""description"":""Koloskopie""},{""date"":""20. 06. 2003"",""number"":""4716"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Nachweis Pilze-aufwendige Nährmedien\n\nMaterialien-Auslage nach GOÄ § 10""},{""date"":""20. 06. 2003"",""number"":""4717"",""amount"":""8, 04"",""factor"":""1, 15"",""description"":""Züchtung Pilze-Differenzierungsmedien\n\nMaterialien-Auslage nach GOÄ § 10""}]}","doctor=Doctor(name='Dr. med. Horst Williard', specialization='Hals-Nasen-Ohrenheilkunde', address='Mainzerstr. 11', city='Frankfurt', postal_code='65432') patient=Patient(name='Hans Wild', address='Humboldtstrasse 51, App. 76', city='Weilerbach', postal_code='45535', country='Deutschland') invoice=Invoice(number='23435/043232', date='25. 07. 2003', due_date='25. 08. 2003', total_amount='67, 21') diagnosis=['Oxyuriasis', 'Pylorusstenose', 'Rektum-Prolaps'] items=[Item(date='10. 06. 2003', number='602', amount='15, 95', factor='1, 80', description='Oxymetrische Untersuchung'), Item(date='10. 06. 2003', number='605', amount='25, 39', factor='1, 80', description='Ruhespirographische Untersuchung'), Item(date='10. 06. 2003', number='1070', amount='9, 79', factor='2, 30', description='Koloskopie'), Item(date='20. 06. 2003', number='4716', amount='8, 04', factor='1, 15', description='Nachweis Pilze-aufwendige Nährmedien\n\nMaterialien-Auslage nach GOÄ § 10'), Item(date='20. 06. 2003', number='4717', amount='8, 04', factor='1, 15', description='Züchtung Pilze-Differenzierungsmedien\n\nMaterialien-Auslage nach GOÄ § 10')]",,1
