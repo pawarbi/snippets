@@ -1,6 +1,5 @@
 ### implemented based on https://github.com/getomni-ai/benchmark/blob/main/src/evaluation/json.ts
-
-from jsondiff import diff
+from deepdiff import DeepDiff
 from typing import Dict, Any, TypedDict, Optional
 
 
@@ -55,87 +54,82 @@ def count_total_fields(obj: Any) -> int:
     return count
 
 
-def count_changes(diff_result: Any) -> DiffStats:
+def count_changes_deepdiff(diff_result: Dict[str, Any]) -> DiffStats:
     """
-    Count the number of additions, deletions, and modifications in a diff result.
+    Count the number of additions, deletions, and modifications from a DeepDiff result.
     """
-    changes: DiffStats = {
+    changes = {
         'additions': 0,
         'deletions': 0,
         'modifications': 0,
         'total': 0
     }
-
-    def traverse(obj: Any) -> None:
-        if obj is None or not isinstance(obj, dict):
-            return
-
-        for key, value in obj.items():
-            if isinstance(value, list):
-                # Handle array diffs
-                for operation, element in value:
-                    if element is None or not isinstance(element, (dict, list)):
-                        # Handle primitive value changes in arrays
-                        if operation == '+':
-                            changes['additions'] += 1
-                        elif operation == '-':
-                            changes['deletions'] += 1
-                    else:
-                        if operation == '+':
-                            changes['additions'] += count_total_fields(element)
-                        elif operation == '-':
-                            changes['deletions'] += count_total_fields(element)
-                        elif operation == '~':
-                            # Handle array element modifications
-                            traverse(element)
+    
+    # Count additions (dictionary_item_added and iterable_item_added)
+    if 'dictionary_item_added' in diff_result:
+        # Each addition might be a primitive or a complex structure
+        for _, value in diff_result['dictionary_item_added'].items():
+            if value is None or not isinstance(value, (dict, list)):
+                changes['additions'] += 1
             else:
-                if key.endswith('__deleted'):
-                    if value is None or not isinstance(value, (dict, list)):
-                        changes['deletions'] += 1
-                    else:
-                        changes['deletions'] += count_total_fields(value)
-                elif key.endswith('__added'):
-                    if value is None or not isinstance(value, (dict, list)):
-                        changes['additions'] += 1
-                    else:
-                        changes['additions'] += count_total_fields(value)
-                elif isinstance(value, dict) and value is not None:
-                    if '__old' in value and '__new' in value:
-                        if value['__old'] is None and value['__new'] is not None:
-                            changes['modifications'] += count_total_fields(value['__new']) or 1
-                        else:
-                            changes['modifications'] += count_total_fields(value['__old']) or 1
-                    else:
-                        traverse(value)
-
-    traverse(diff_result)
-
+                changes['additions'] += count_total_fields(value)
+    
+    if 'iterable_item_added' in diff_result:
+        for _, value in diff_result['iterable_item_added'].items():
+            if value is None or not isinstance(value, (dict, list)):
+                changes['additions'] += 1
+            else:
+                changes['additions'] += count_total_fields(value)
+    
+    # Count deletions (dictionary_item_removed and iterable_item_removed)
+    if 'dictionary_item_removed' in diff_result:
+        for _, value in diff_result['dictionary_item_removed'].items():
+            if value is None or not isinstance(value, (dict, list)):
+                changes['deletions'] += 1
+            else:
+                changes['deletions'] += count_total_fields(value)
+    
+    if 'iterable_item_removed' in diff_result:
+        for _, value in diff_result['iterable_item_removed'].items():
+            if value is None or not isinstance(value, (dict, list)):
+                changes['deletions'] += 1
+            else:
+                changes['deletions'] += count_total_fields(value)
+    
+    # Count modifications (values_changed and type_changes)
+    if 'values_changed' in diff_result:
+        changes['modifications'] += len(diff_result['values_changed'])
+    
+    if 'type_changes' in diff_result:
+        changes['modifications'] += len(diff_result['type_changes'])
+    
     changes['total'] = changes['additions'] + changes['deletions'] + changes['modifications']
     return changes
 
 
 def calculate_json_accuracy(actual: Dict[str, Any], predicted: Dict[str, Any]) -> AccuracyResult:
     """
-    Calculates accuracy for JSON structure and primitive values only.
-
+    Calculates accuracy for JSON structure and primitive values.
+    
     The accuracy is calculated as:
     1 - (number of differences / total fields in actual)
-
+    
     Differences include:
     - Additions: Fields present in predicted but not in actual
     - Deletions: Fields present in actual but not in predicted
     - Modifications: Fields present in both but with different values
-
+    
     A score of 1.0 means the JSONs are identical
     A score of 0.0 means completely different
     """
-    # Get the diff result
-    full_diff_result = diff(actual, predicted, syntax='explicit', marshal=True)
-    diff_result = diff(actual, predicted, marshal=True)
+    # Count the total fields
     total_fields = count_total_fields(actual)
-
+    
+    # Get the DeepDiff result
+    diff_result = DeepDiff(actual, predicted, verbose_level=2)
+    
+    # If there's no diff, the JSONs are identical
     if not diff_result:
-        # If there's no diff, the JSONs are identical
         return {
             'score': 1.0,
             'json_diff': {},
@@ -148,17 +142,17 @@ def calculate_json_accuracy(actual: Dict[str, Any], predicted: Dict[str, Any]) -
             },
             'total_fields': total_fields
         }
-
-    changes = count_changes(diff_result)
-    score = max(
-        0,
-        1 - (changes['additions'] + changes['deletions'] + changes['modifications']) / total_fields
-    )
-
+    
+    # Count the changes
+    changes = count_changes_deepdiff(diff_result)
+    
+    # Calculate the score
+    score = max(0, 1 - (changes['total'] / total_fields if total_fields > 0 else 0))
+    
     return {
         'score': round(score, 4),
         'json_diff': diff_result,
-        'full_json_diff': full_diff_result,
+        'full_json_diff': diff_result,  # Same as json_diff for DeepDiff
         'json_diff_stats': changes,
         'total_fields': total_fields
     }
@@ -166,6 +160,8 @@ def calculate_json_accuracy(actual: Dict[str, Any], predicted: Dict[str, Any]) -
 
 # Example usage
 if __name__ == "__main__":
+    # Install deepdiff if needed: pip install deepdiff
+    
     actual = {
         "name": "John",
         "age": 30,
