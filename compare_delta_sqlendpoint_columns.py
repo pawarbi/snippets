@@ -8,8 +8,9 @@ import sempy.fabric as fabric
 import polars as pl
 import pandas as pd
 
-def compare_delta_tsql_columns(lakehouse_name, lakehouse_workspace=None):
-    lh_workspaceid = fabric.resolve_workspace_id(lakehouse_name)
+def compare_delta_tsql_columns(lakehouse_name, lakehouse_workspace):
+
+    lh_workspaceid = fabric.resolve_workspace_id(lakehouse_workspace)
     abfs = notebookutils.lakehouse.getWithProperties(lakehouse_name, lh_workspaceid)['properties']['abfsPath']
     is_lh_withschema = notebookutils.fs.exists(f"{abfs}/Tables/dbo")
     comparison_results = []
@@ -80,7 +81,7 @@ def compare_delta_tsql_columns(lakehouse_name, lakehouse_workspace=None):
             
             comparison_results.append({
                 "table": table_info["sql_table_name"],
-                "delta_path": table_info["delta_path"],
+                # "delta_path": table_info["delta_path"],
                 "delta_only_columns": list(delta_only),
                 "tsql_only_columns": list(tsql_only),
                 "is_match": len(delta_only) == 0 and len(tsql_only) == 0
@@ -95,7 +96,6 @@ def compare_delta_tsql_columns(lakehouse_name, lakehouse_workspace=None):
 
     for result in comparison_results:
         print(f"\nTable: {result['table']}")
-        print(f"Delta Path: {result['delta_path']}")
         
         if result["is_match"]:
             print("✅ Columns match perfectly between Delta and T-SQL")
@@ -119,5 +119,5 @@ def compare_delta_tsql_columns(lakehouse_name, lakehouse_workspace=None):
     
     return comparison_results
 
-# Example usage:
-compare_delta_tsql_columns("Sales", "Sales")
+
+compare_delta_tsql_columns("MyLakehouse","Sales")
