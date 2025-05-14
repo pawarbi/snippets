@@ -33,6 +33,7 @@ for table in tpcds_tables:
     df.createOrReplaceTempView(table)   # Create a temporary view
     print(f"Created temp view for table: {table}")
 
+## run queries
 import time
 import pandas as pd
 import os
@@ -603,22 +604,22 @@ def execute_tpcds_queries(configuration_name="default_spark"):
         LIMIT 100
         """,
         
-        # Query 72 - Resource intensive with multiple joins
+        # Query 72 - Fixed to use d_dom instead of d_day
         'q72': """
         SELECT 
             i_item_desc,
             w_warehouse_name,
             d1.d_year,
             d1.d_moy,
-            d1.d_day,
+            d1.d_dom as d1_dom,
             inv1.inv_quantity_on_hand inv_quantity_on_hand_1,
             inv2.inv_quantity_on_hand inv_quantity_on_hand_2,
             d2.d_year,
             d2.d_moy,
-            d2.d_day,
+            d2.d_dom as d2_dom,
             d3.d_year,
             d3.d_moy,
-            d3.d_day
+            d3.d_dom as d3_dom
         FROM 
             inventory inv1,
             inventory inv2,
@@ -651,7 +652,7 @@ def execute_tpcds_queries(configuration_name="default_spark"):
             w_warehouse_name,
             d1.d_year,
             d1.d_moy,
-            d1.d_day
+            d1.d_dom
         LIMIT 100
         """,
         
@@ -709,7 +710,7 @@ def execute_tpcds_queries(configuration_name="default_spark"):
             result = spark.sql(query_sql)
             
             # Save as Delta table
-            result.write.format("delta").mode("overwrite").saveAsTable(query_id)
+            result.write.format("delta").mode("overwrite").saveAsTable(f"{query_id}_1")
             
             # Calculate execution time
             end_time = time.time()
@@ -733,17 +734,20 @@ def execute_tpcds_queries(configuration_name="default_spark"):
                 'error': str(e)
             })
     
-
+    # Create a DataFrame from the execution times and save as CSV
     result_df = pd.DataFrame(execution_times)
+    
+    # Ensure Files directory exists
     os.makedirs('Files', exist_ok=True)
-
+    
+    # Save the results to a CSV file
     csv_path = f"Files/tpcds_benchmark_{configuration_name}.csv"
     result_df.to_csv(csv_path, index=False)
     
     print(f"All TPC-DS queries executed. Results saved to {csv_path}")
     return csv_path
 
-
 execute_tpcds_queries("default_spark")
+
 
 
