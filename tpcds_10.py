@@ -3,12 +3,16 @@ import os
 
 # Create directory if it doesn't exist
 os.makedirs('/lakehouse/default/Files/tpcds10', exist_ok=True)
-url = 'https://sparkdltrigger.web.cern.ch/sparkdltrigger/TPCDS/tpcds_10.zip'
-response = requests.get(url)
-with open('/lakehouse/default/Files/tpcds10/tpcds_10.zip', 'wb') as f:
-    f.write(response.content)
+try:
+    url = 'https://sparkdltrigger.web.cern.ch/sparkdltrigger/TPCDS/tpcds_10.zip'
+    response = requests.get(url)
+    with open('/lakehouse/default/Files/tpcds10/tpcds_10.zip', 'wb') as f:
+        f.write(response.content)
+    print("File downloaded successfully")    
+except:
+    print("check URL")
 
-print("File downloaded successfully")
+
 
 ##unzip
 !unzip /lakehouse/default/Files/tpcds10/tpcds_10.zip -d /lakehouse/default/Files/tpcds10/
