@@ -1,6 +1,8 @@
 import requests
 import os
 
+# https://sparkdltrigger.web.cern.ch/sparkdltrigger/TPCDS/
+
 # Create directory if it doesn't exist
 os.makedirs('/lakehouse/default/Files/tpcds10', exist_ok=True)
 try:
