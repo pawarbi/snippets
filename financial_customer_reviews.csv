@@ -1,0 +1,26 @@
+customer_id,review_text,review_date,product_category,tenure_months,account_balance,monthly_transactions,credit_score,customer_age,is_premium_customer
+CUST_1000,The new credit card application process was incredibly smooth and fast. Approved within minutes!,2025-08-10,Credit Card,87,6010.89,22,705,37,No
+CUST_1001,"I've been a loyal customer for 15 years, but the recent fee increases are making me consider switching to another provider.",2025-05-29,Credit Card,92,37163.05,39,624,60,Yes
+CUST_1002,Customer service was unhelpful when I disputed a fraudulent charge. Took weeks to resolve.,2025-09-08,Investment Account,9,5137.91,19,838,61,No
+CUST_1003,Love the cashback rewards program! I earn points on every purchase and the redemption process is simple.,2025-05-23,Investment Account,31,35942.97,39,794,37,Yes
+CUST_1004,The mobile app crashes frequently and I can't access my account when I need it most.,2025-05-29,Mortgage,41,40566.81,5,661,67,Yes
+CUST_1005,Outstanding fraud protection - they caught suspicious activity immediately and blocked my card.,2025-06-09,Credit Card,41,8196.24,26,632,28,No
+CUST_1006,The interest rates on personal loans are way too high compared to competitors.,2025-09-03,Savings Account,51,42450.97,43,715,74,Yes
+CUST_1007,Quick response time when I needed to report a lost card. New card arrived within 2 business days.,2025-07-01,Investment Account,74,6678.9,29,620,58,No
+CUST_1008,The online banking platform is outdated and difficult to navigate. Needs a major update.,2025-08-28,Credit Card,119,43154.49,41,678,68,Yes
+CUST_1009,Excellent international transaction support. No issues using my card abroad.,2025-08-20,Savings Account,90,11780.96,23,620,37,No
+CUST_1010,"Hidden fees everywhere! They charge for everything - transfers, statements, even customer service calls.",2025-06-16,Personal Loan,41,22943.81,28,663,46,No
+CUST_1011,The investment advisory team provided great guidance for my retirement planning.,2025-07-14,Personal Loan,91,13715.4,9,667,57,No
+CUST_1012,Terrible experience with mortgage application. Slow processing and poor communication throughout.,2025-06-23,Credit Card,65,19283.04,45,692,66,No
+CUST_1013,The contactless payment feature works perfectly. Very convenient for daily purchases.,2025-08-29,Personal Loan,35,41179.23,25,785,40,Yes
+CUST_1014,Been trying to reach customer support for 3 days about an error on my statement. No callback yet.,2025-05-10,Savings Account,78,43880.2,25,688,64,Yes
+CUST_1015,Premium card benefits are excellent - airport lounge access and travel insurance included.,2025-08-10,Personal Loan,119,45770.11,34,653,39,Yes
+CUST_1016,The budgeting tools in the mobile app have really helped me manage my finances better.,2025-06-04,Mortgage,101,28287.72,21,799,60,Yes
+CUST_1017,Disappointed with the savings account interest rates. Much lower than what was advertised.,2025-08-22,Credit Card,34,49867.63,13,840,54,Yes
+CUST_1018,Fast and secure transactions every time. Never had any issues with payment processing.,2025-03-24,Savings Account,116,5927.63,45,661,73,No
+CUST_1019,The debt consolidation loan helped me get back on track financially. Great rates and terms.,2025-07-12,Investment Account,82,3644.62,29,819,56,No
+CUST_1020,Website security seems weak. I'm concerned about my personal financial information.,2025-04-03,Mortgage,116,47150.33,12,716,72,Yes
+CUST_1021,Automatic bill pay feature is a lifesaver. Never miss a payment anymore.,2025-07-09,Investment Account,20,15028.26,15,812,23,No
+CUST_1022,The annual fee for this card is not worth the limited benefits provided.,2025-05-08,Investment Account,103,9343.27,11,732,63,No
+CUST_1023,Exceptional service when I needed emergency cash advance while traveling overseas.,2025-06-24,Savings Account,31,8065.54,15,580,61,No
+CUST_1024,The credit score monitoring tool is inaccurate and updates too slowly compared to other services.,2025-08-31,Personal Loan,8,6037.45,28,737,38,No
