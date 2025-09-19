@@ -4,7 +4,6 @@
 
 ## Business Scenario
 
-Please note that in this instance, the test workspace for Fabric in PowerBI is not linked to the same tenant as AzureML. In order to be able to access data and resources between the two, you will need to set them up in the same tenant.
 Our e-commerce company has seen profit margins drop by 15% over the last 6 months, even though total sales revenue has remained relatively stable. We're not sure if this is due to rising return rates, inefficient shipping methods, or changes in our customer mix. We need to understand what's driving this profit decline and identify the biggest opportunities to improve our bottom line.
 
 ## Strategic Analysis Report
