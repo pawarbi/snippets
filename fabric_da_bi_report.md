@@ -1,4 +1,4 @@
-# Business Intelligence Report Created by Gabric Data Agent for Sandeep Pawar
+# Business Intelligence Report Created by Fabric Data Agent for Sandeep Pawar
 
 **Generated on:** 2025-09-19 15:16:24
 
