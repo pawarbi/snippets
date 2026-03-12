@@ -1,0 +1,155 @@
+question,query,answer_template,expected_answer
+Give me the revenue from furniture related purchases,"SELECT 
+    SUM(s.[Price]) AS [Total Furniture Revenue]
+FROM 
+    [fda].[Sales] s
+INNER JOIN 
+    [fda].[Products] p ON s.[Product ID] = p.[Product ID]
+WHERE 
+    p.[Product Category English] LIKE '%furniture%'",The Revenue for furniture related purchases is {Total Furniture Revnue},The Revenue for furniture related purchases is 1143364.98
+What was the revenue from health and beauty related purchases in 2017?,"SELECT 
+    P.[Product Category English] AS ProductCategory,
+    SUM(S.Price) AS TotalRevenue
+FROM 
+    [fda].[Sales] S
+INNER JOIN 
+    [fda].[Products] P ON S.[Product ID] = P.[Product ID]
+WHERE 
+    P.[Product Category English] = 'health_beauty'
+    AND S.[Order Year] = 2017
+GROUP BY 
+    P.[Product Category English]",The Revenue from health and beauty related products purchased in 2017 is {TotalRevenue},The Revenue from health and beauty related products purchased in 2017 is 481755.71
+Find the top city by the number of delivered orders.,"SELECT TOP 1
+    c.[Customer City],
+    COUNT(DISTINCT s.[Order ID]) AS DeliveredOrderCount
+FROM [fda].[Sales] s
+INNER JOIN [fda].[Customers] c
+    ON s.[Customer ID] = c.[Customer ID]
+WHERE s.[Is Delivered] = 1
+GROUP BY c.[Customer City]
+ORDER BY DeliveredOrderCount DESC",The top city is {Customer City} with {DeliveredOrderCount} delivered orders,The top city is SAO PAULO with 15044 delivered orders
+Which customer spent the most money?,"SELECT TOP 1
+    c.[Customer ID],
+    c.[Customer City],
+    c.[Customer State],
+    c.[Customer Zip Code],
+    SUM(s.[Total Payment Value]) AS [Total Amount Spent]
+FROM [fda].[Sales] s
+INNER JOIN [fda].[Customers] c
+    ON s.[Customer ID] = c.[Customer ID]
+GROUP BY
+    c.[Customer ID],
+    c.[Customer City],
+    c.[Customer State],
+    c.[Customer Zip Code]
+ORDER BY
+    [Total Amount Spent] DESC",{Customer ID} spent the most money,0a0a92112bd4c708ca5fde585afaa872 spent the most money spent the most money
+"Please provide the median, p95, and p99 for the delivery time of the zip code with the most number of late deliveries.","
+-- Step 1: Find the zip code with the highest number of late deliveries
+WITH top_zip AS (
+  SELECT TOP 1 s.[Customer Zip Code] AS Zip
+  FROM fda.Sales s
+  WHERE s.[Is Late] = 1
+  GROUP BY s.[Customer Zip Code]
+  ORDER BY COUNT(*) DESC
+),
+dd_table AS (
+  SELECT COALESCE(
+           CAST([Delivery Days] AS FLOAT),
+           CAST(DATEDIFF(day, [Order Date], [Customer Delivery Date]) AS FLOAT)
+         ) AS dd
+  FROM fda.Sales
+  WHERE [Customer Zip Code] = (SELECT Zip FROM top_zip)
+    AND ([Delivery Days] IS NOT NULL OR ([Order Date] IS NOT NULL AND [Customer Delivery Date] IS NOT NULL))
+),
+numbered AS (
+  SELECT dd,
+         ROW_NUMBER() OVER (ORDER BY dd) AS rn,
+         COUNT(*) OVER() AS tot
+  FROM dd_table
+)
+SELECT
+  (SELECT Zip FROM top_zip) AS CustomerZip,
+  COUNT(*) AS DeliveryCount,
+  ROUND(AVG(dd), 2) AS avg_days,
+  ROUND(MAX(CASE WHEN rn = CEILING(0.5*tot) THEN dd END), 2) AS median_days,
+  ROUND(MAX(CASE WHEN rn = CEILING(0.95*tot) THEN dd END), 2) AS p95_days,
+  ROUND(MAX(CASE WHEN rn = CEILING(0.99*tot) THEN dd END), 2) AS p99_days
+FROM numbered;","Zip Code: {CustomerZip}
+Average: {avg_days}
+Median: {median_days}
+P95: {p95_days}
+P99: {p99_days}","Zip Code: 22793
+Average: 21.53
+Median: 17
+P95: 51
+P99: 61"
+"Please provide the average, median, p95, and p99 for the delivery time of the City with the most number of deliveries.","
+-- Step 1: Identify the customer city with the highest number of delivered orders
+WITH city_counts AS (
+  SELECT c.[Customer City], COUNT(*) AS delivered_count
+  FROM fda.Sales s
+  INNER JOIN fda.Customers c ON s.[Customer ID] = c.[Customer ID]
+  WHERE s.[Is Delivered] = 1
+    AND s.[Delivery Days] IS NOT NULL
+  GROUP BY c.[Customer City]
+), top_city AS (
+  SELECT TOP 1 [Customer City]
+  FROM city_counts
+  ORDER BY delivered_count DESC
+), delivery_days_cte AS (
+  SELECT 
+    c.[Customer City],
+    CAST(s.[Delivery Days] AS FLOAT) AS dd
+  FROM fda.Sales s
+  INNER JOIN fda.Customers c ON s.[Customer ID] = c.[Customer ID]
+  WHERE s.[Is Delivered] = 1
+    AND s.[Delivery Days] IS NOT NULL
+    AND c.[Customer City] = (SELECT [Customer City] FROM top_city)
+), numbered AS (
+  SELECT
+    [Customer City],
+    dd,
+    ROW_NUMBER() OVER (ORDER BY dd) AS rn,
+    COUNT(*) OVER() AS tot
+  FROM delivery_days_cte
+)
+SELECT
+  [Customer City],
+  COUNT(*) AS n_delivered_orders,
+  ROUND(AVG(dd), 2) AS avg_delivery_days,
+  ROUND(MAX(CASE WHEN rn = CEILING(0.5 * tot) THEN dd END), 2) AS median_delivery_days,
+  ROUND(MAX(CASE WHEN rn = CEILING(0.95 * tot) THEN dd END), 2) AS p95_delivery_days,
+  ROUND(MAX(CASE WHEN rn = CEILING(0.99 * tot) THEN dd END), 2) AS p99_delivery_days
+FROM numbered
+GROUP BY [Customer City];","Zip Code: {Customer City}
+Average: {avg_delivery_days}
+Median: {median_delivery_days}
+P95: {p95_delivery_days}
+P99: {p99_delivery_days}","Zip Code: SAO PAULO
+Average: 7
+Median: 7
+P95: 19
+P99: 31"
+Compute the median product price for category beauty and health.,"
+SELECT
+  ROUND(MAX(CASE WHEN rn = CEILING(0.5 * tot) THEN median_price END), 2) AS catalog_median_price
+FROM (
+  SELECT median_price,
+         ROW_NUMBER() OVER (ORDER BY median_price) AS rn,
+         COUNT(*) OVER() AS tot
+  FROM (
+    SELECT ProductID, MAX(CASE WHEN rn = CEILING(0.5 * tot) THEN price END) AS median_price
+    FROM (
+      SELECT s.[Product ID] AS ProductID,
+             s.[Price] AS price,
+             ROW_NUMBER() OVER (PARTITION BY s.[Product ID] ORDER BY s.[Price]) AS rn,
+             COUNT(*) OVER (PARTITION BY s.[Product ID]) AS tot
+      FROM fda.Sales s
+      JOIN fda.Products p ON s.[Product ID] = p.[Product ID]
+      WHERE LOWER(p.[Product Category English]) = 'health_beauty'
+        AND s.[Price] IS NOT NULL
+    ) t1
+    GROUP BY ProductID
+  ) t2
+) t3;",The median price for health and beauty products is {catalog_median_price},The median price for health and beauty products is 79.9
